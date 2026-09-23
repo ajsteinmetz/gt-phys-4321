@@ -3,11 +3,9 @@ title: "Welcome Page"
 subtitle: "PHYS 4321/4322: Advanced Laboratory I/II"
 ---
 
-**Fall 2026 | PHYS 4321 CRN #90814/90815 | PHYS 4322 CRN #93413/93414 | 3 credit hours**
+**Fall 2026 | PHYS 4321 (Advanced Lab I) CRN #90814/90815 | PHYS 4322 (Advanced Lab II) CRN #93413/93414 | 3 credit hours**
 
 **Tuesdays and Thursdays, 3:30&ndash;6:15 PM ET &middot; Boggs 1-11 &middot; Section B**
-
-<!-- TODO: confirm which CRN belongs to which section (A: Mon/Wed, B: Tue/Thu). -->
 
 ## Welcome
 
@@ -36,7 +34,7 @@ Experiments are conducted that demonstrate basic principles from various fields 
 
 ## Course Schedule
 
-Section B meets every Tuesday and Thursday except holidays, from **August 25 through December 8**. Each experiment follows the same cycle: about three weeks in the lab collecting data, then about two weeks of writing. A report is due on the day the next lab begins. The schedule below may be adjusted as needed throughout the semester.
+Section B meets every Tuesday and Thursday except holidays, from **August 25 through December 8**. Each experiment follows the same cycle: about three weeks in the lab collecting data, then about two weeks of writing. A report is due at the beginning of class on the day the next lab begins. The schedule below may be adjusted as needed throughout the semester.
 
 | Date | Focus | Major Due Dates |
 |---|---|---|
@@ -72,7 +70,7 @@ Section B meets every Tuesday and Thursday except holidays, from **August 25 thr
 | Dec. 3 | Write 4 | - |
 | Dec. 8 | Report 4 | **Report 4 due** |
 
-<!-- TODO: The instructor calendar prints the Section B Lab 2 / Report 1 date as Sep 25 (a Friday); Sept. 24 (Thursday) assumed. Confirm. Also confirm the report due time (11:59 PM ET is the course default) and whether it is due at the start of class or end of day. -->
+<!-- The instructor calendar prints the Section B Lab 2 / Report 1 date as Sep 25, a Friday with no class; Thursday Sept. 24 is used. -->
 
 ## Experiments and Grading
 
@@ -87,7 +85,7 @@ Each lab report is scored as follows:
 | Other elements (including logbook keeping and late penalties) | 20 |
 | **Total** | **100** |
 
-Scores are assigned to lab reports. If you perform the experiment and keep a good notebook but do not submit a report, you will earn zero, not 70. Late penalties may result in an "other" score less than zero.
+Scores are assigned to lab reports. If you perform the experiment and keep a good notebook but do not submit a report, you will earn zero, not 70. Reports are due at the beginning of class, and late work is penalized. Late penalties may result in an "other" score less than zero.
 
 ## Important Links and Resources
 
@@ -98,7 +96,6 @@ Scores are assigned to lab reports. If you perform the experiment and keep a goo
 
 - [Syllabus](course-files/syllabus.qmd)
 - [Available experiments](labs/index.qmd)
-- [Writing a lab report (slides)](lectures/lab-report.qmd){target="_blank"}
 - [Technical and professional writing](supplemental/technical-writing.qmd)
 :::
 

@@ -3,11 +3,9 @@ title: "Syllabus"
 subtitle: "PHYS 4321/4322: Advanced Laboratory I/II"
 ---
 
-**Fall 2026 | PHYS 4321 CRN #90814/90815 | PHYS 4322 CRN #93413/93414 | 3 credit hours**
+**Fall 2026 | PHYS 4321 (Advanced Lab I) CRN #90814/90815 | PHYS 4322 (Advanced Lab II) CRN #93413/93414 | 3 credit hours**
 
 **Section B: Tuesdays and Thursdays, 3:30&ndash;6:15 PM ET &middot; Boggs 1-11**
-
-<!-- TODO: confirm which CRN belongs to which section (A: Mon/Wed, B: Tue/Thu). -->
 
 ## Course Description
 
@@ -49,7 +47,7 @@ Lab reports are scored as follows:
 
 Scores are assigned to lab reports. That is, if you perform the experiment and keep a good notebook but do not submit a report, you will earn zero, not 70. Late penalties may result in an "other" score less than zero.
 
-<!-- TODO: state the late-penalty rate and the report due time once decided. -->
+<!-- TODO: state the late-penalty rate once decided. -->
 
 ### Grading Scale
 
@@ -75,9 +73,9 @@ You may not use any data that you did not participate in collecting during the c
 
 #### Late Work
 
-Late penalties apply to lab reports. Details: TBD.
+Lab reports are due at the beginning of class. Late work is penalized; the penalty rate is TBD.
 
-<!-- TODO: late-work policy is not in the source syllabus beyond "late penalties may apply." -->
+<!-- TODO: penalty rate is not in the source syllabus. -->
 
 ### Limited Generative AI Use Permitted
 

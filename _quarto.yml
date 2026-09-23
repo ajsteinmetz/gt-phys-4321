@@ -20,8 +20,6 @@ website:
           - supplemental/technical-writing.qmd
           - supplemental/notebook-guidelines.qmd
           - supplemental/error-analysis.qmd
-          - text: "Writing a Lab Report (slides)"
-            href: lectures/lab-report.qmd
       - text: "Lectures"
         href: lectures/index.qmd
 

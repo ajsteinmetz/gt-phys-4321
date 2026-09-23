@@ -17,10 +17,10 @@ You will complete **four** of the experiments below, and write an individual lab
 | ESR | Electron Spin Resonance | TBD |
 | FH | Frank Hertz | TBD |
 | MI | Modern Interferometry | TBD |
-| MO | Milliken Oil-Drop | TBD |
+| MO | Millikan Oil-Drop | TBD |
 | MP | Muon Physics | TBD |
 | NMR | Pulsed Nuclear Magnetic Resonance | TBD |
 | WP | Wave-Particle Duality | TBD |
 | ZE | Zeeman Effect | TBD |
 
-<!-- TODO: add a page per experiment (labs/<code>.qmd) and link it in the table; confirm "Milliken" vs. "Millikan" spelling. -->
+<!-- TODO: add a page per experiment (labs/<code>.qmd) and link it in the table. -->
