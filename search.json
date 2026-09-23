@@ -1,0 +1,366 @@
+[
+  {
+    "objectID": "supplemental/technical-writing.html",
+    "href": "supplemental/technical-writing.html",
+    "title": "Technical and Professional Writing",
+    "section": "",
+    "text": "This course is designed to help you produce materials that can be used immediately in graduate-school applications, job searches, fellowship applications, and professional networking. The assignments in this course are therefore not only obstacles in your path in pursuit of an agreeable letter grade but documents that can help develop your career and reputation as a physicist.\n\n\n\n\n\n\nTipRecommendation\n\n\n\nThe Elements of Style by W. Strunk Jr. and E. B. White (often referred to as Strunk & White) is a popular and concise (~50–100 pages depending on the edition) book about how to write well in English. To quote Stephen King: “There is little or no detectable bullshit in that book.” While not specifically about technical writing, much of its wisdom is broadly applicable.\n\n\nStrong technical and professional writing is:\n\nClear: the reader can understand your purpose and main points without guessing;\nSpecific: claims are supported by concrete details, evidence, or examples;\nAudience-aware: the document is shaped toward the actual reader and context;\nProfessional: formatting, tone, grammar, and organization reinforce your credibility;\nPurposeful: every section contributes to the document’s goal.\n\n\n\n\n\n\n\nNoteCore principle\n\n\n\nGood technical writing accomplishes an objective and communicates it to the audience."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#why-writing-matters-in-this-course",
+    "href": "supplemental/technical-writing.html#why-writing-matters-in-this-course",
+    "title": "Technical and Professional Writing",
+    "section": "",
+    "text": "This course is designed to help you produce materials that can be used immediately in graduate-school applications, job searches, fellowship applications, and professional networking. The assignments in this course are therefore not only obstacles in your path in pursuit of an agreeable letter grade but documents that can help develop your career and reputation as a physicist.\n\n\n\n\n\n\nTipRecommendation\n\n\n\nThe Elements of Style by W. Strunk Jr. and E. B. White (often referred to as Strunk & White) is a popular and concise (~50–100 pages depending on the edition) book about how to write well in English. To quote Stephen King: “There is little or no detectable bullshit in that book.” While not specifically about technical writing, much of its wisdom is broadly applicable.\n\n\nStrong technical and professional writing is:\n\nClear: the reader can understand your purpose and main points without guessing;\nSpecific: claims are supported by concrete details, evidence, or examples;\nAudience-aware: the document is shaped toward the actual reader and context;\nProfessional: formatting, tone, grammar, and organization reinforce your credibility;\nPurposeful: every section contributes to the document’s goal.\n\n\n\n\n\n\n\nNoteCore principle\n\n\n\nGood technical writing accomplishes an objective and communicates it to the audience."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#start-with-audience-and-purpose",
+    "href": "supplemental/technical-writing.html#start-with-audience-and-purpose",
+    "title": "Technical and Professional Writing",
+    "section": "2 Start with Audience and Purpose",
+    "text": "2 Start with Audience and Purpose\nBefore writing, identify two things:\n\nWho is the reader?\nWhat should the document accomplish?\n\n\n\n\n\n\n\n\n\nDocument\nLikely Reader\nPrimary Purpose\n\n\n\n\nResume\nEmployer, recruiter, hiring manager, research supervisor\nShow that your background fits a specific role.\n\n\nOnline professional profile\nEmployers, alumni, collaborators, graduate programs, professional contacts\nPresent a concise and credible professional identity.\n\n\nResearch proposal\nFellowship reviewers, faculty, research mentors\nPersuade the reader that a research question is important, feasible, and worth supporting.\n\n\nPersonal statement\nGraduate admissions committee, faculty group, research supervisor\nExplain your preparation, goals, and fit for a specific academic opportunity.\n\n\nCover letter\nEmployer or hiring committee\nShow why your experience and interests match a specific job posting.\n\n\n\nA document that is technically polished but not shaped toward its actual audience will usually be less effective than a slightly simpler document that is highly specific and well targeted.\nAn example mismatch would be a B.S. Physics student applying to a data analysis, engineering, or technical role who writes a resume like a graduate-school application, emphasizing abstract intellectual interests and course topics while underemphasizing concrete skills, projects, software and instrumentation, teamwork, and deliverables."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#writing-style-clear-specific-and-direct",
+    "href": "supplemental/technical-writing.html#writing-style-clear-specific-and-direct",
+    "title": "Technical and Professional Writing",
+    "section": "3 Writing Style: Clear, Specific, and Direct",
+    "text": "3 Writing Style: Clear, Specific, and Direct\nTechnical and professional writing should favor clarity over vagueness, needless complexity, and ornament for its own sake. Use specialized vocabulary when your audience requires it, but do not use complexity to imitate expertise.\n\n3.1 Prefer Specific Claims\n\n\n\n\n\n\n\nLess Effective\nMore Effective\n\n\n\n\nI gained valuable research experience.\nI analyzed detector calibration data in Python and developed plots used in weekly group meetings.\n\n\nThis research is important.\nThis work addresses how improved vacuum diagnostics could improve pump longevity and increase vacuum stability.\n\n\nI am passionate about physics.\nMy interest in condensed-matter developed through my coursework in quantum mechanics, auditing a graduate-level solid-state class, and a summer project with Professor X modeling lattice excitations.\n\n\n\n\n\n3.2 Use Strong Verbs\nEspecially in resumes and cover letters, strong verbs help the reader understand what you did. Examples include analyzed, designed, developed, implemented, measured, modeled, presented, programmed, tested, and wrote.\n\n\n3.3 Avoid Empty Intensifiers\nWords such as very, extremely, incredibly, and highly often add less value than a concrete detail.\n\n\n\n\n\n\nTipBetter habit\n\n\n\nReplace vague emphasis with evidence, examples, or measurable detail whenever possible."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#concision-and-structure",
+    "href": "supplemental/technical-writing.html#concision-and-structure",
+    "title": "Technical and Professional Writing",
+    "section": "4 Concision and Structure",
+    "text": "4 Concision and Structure\nConcise writing is about sentence structure rather than whether a document is particularly lengthy or short.\n\n4.1 Paragraph Structure\nEach paragraph should usually have:\n\nA clear main point;\nSpecific support or evidence;\nA connection back to the purpose of the document.\n\nFor example, in a personal statement, a paragraph about prior research experience should not merely list tasks. It should explain how those tasks prepared you for the graduate program, professor, laboratory, or research direction you are targeting."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#formatting-make-the-document-easy-to-read",
+    "href": "supplemental/technical-writing.html#formatting-make-the-document-easy-to-read",
+    "title": "Technical and Professional Writing",
+    "section": "5 Formatting: Make the Document Easy to Read",
+    "text": "5 Formatting: Make the Document Easy to Read\nFormatting helps a reader navigate your document, locate key information, and form an impression of your professionalism. This last effect is partly psychological and partly conventional: a reader may ignore your message or stop reading if the document is difficult or annoying to read (the same is true of professors grading your work!). Formatting may be precisely prescribed, as in a grant proposal, or guided more loosely by disciplinary norms and aesthetic judgment, as in an academic publication.\n\n5.1 General Formatting Principles\n\nUse consistent spacing, indentation, capitalization, and punctuation.\nUse headings to guide the reader where appropriate.\nMaintain enough white space that the page does not feel crowded.\nChoose readable fonts and avoid excessive visual complexity.\nAlign dates, titles, and section labels consistently."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#citations-and-references",
+    "href": "supplemental/technical-writing.html#citations-and-references",
+    "title": "Technical and Professional Writing",
+    "section": "6 Citations and References",
+    "text": "6 Citations and References\nCitations are especially important in research writing. They show how your work fits into existing knowledge, help establish credibility, and allow readers to confirm information used to support your claims. Citations should also prioritize primary sources, peer-reviewed literature, and authoritative texts over blogs, social media posts, and anonymous webpages.\n\n6.1 When Should You Cite?\nIn a research document, whether a proposal or publication, cite sources when you:\n\nDescribe prior research or accepted findings;\nIdentify an open problem, technical limitation, or gap in the literature;\nUse a specialized method, model, dataset, or established experimental approach;\nMake a factual claim that is not common knowledge;\nPosition your proposed research relative to existing work.\n\n\n\n\n\n\n\nWarningDo not pad references\n\n\n\nUnless you are writing a review article, a compact and well-chosen bibliography is usually more effective than a long list of sources that are never meaningfully integrated into the document’s message.\n\n\n\n\n6.2 Responsible Source Use\nTechnical writing requires intentional use of references. When using outside sources:\n\nRead sources closely enough to understand what they actually claim.\nDo not cite a paper merely because it seems related from the title or abstract.\nDo not copy wording without quotation and attribution.\nDo not distort a source to make it support a claim it does not support.\nCheck citations, bibliographic information, and URLs carefully before submission."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#revision-is-part-of-writing",
+    "href": "supplemental/technical-writing.html#revision-is-part-of-writing",
+    "title": "Technical and Professional Writing",
+    "section": "7 Revision Is Part of Writing",
+    "text": "7 Revision Is Part of Writing\nStrong documents are rarely produced in a single draft. Revision should be expected.\n\n7.1 A Useful Revision Process\n\nDraft the main content and get the main ideas onto the page.\nRevise the structure to check that the document flows logically.\nRevise to replace vague claims with details and evidence.\nRevise to ensure the document satisfies the purpose expected by the reader.\nEdit the style and formatting to improve clarity and remove awkward sentences.\nProofread carefully.\n\n\n\n\n\n\n\nTipRecommendation\n\n\n\nRead important application documents aloud during revision. Awkward phrasing, overly long sentences, and unclear transitions often become easier to notice."
+  },
+  {
+    "objectID": "supplemental/error-analysis.html",
+    "href": "supplemental/error-analysis.html",
+    "title": "Error Analysis",
+    "section": "",
+    "text": "TBD"
+  },
+  {
+    "objectID": "supplemental/error-analysis.html#purpose",
+    "href": "supplemental/error-analysis.html#purpose",
+    "title": "Error Analysis",
+    "section": "",
+    "text": "TBD"
+  },
+  {
+    "objectID": "lectures/lab-guidelines.html#lab-guidelines",
+    "href": "lectures/lab-guidelines.html#lab-guidelines",
+    "title": "Lab Guidelines",
+    "section": "Lab guidelines",
+    "text": "Lab guidelines\nTBD"
+  },
+  {
+    "objectID": "labs/index.html",
+    "href": "labs/index.html",
+    "title": "Labs",
+    "section": "",
+    "text": "You will complete four of the experiments below, and write an individual lab report for each one (25% of course grade each). Lab manuals are available in Canvas.\n\n\n\nCode\nExperiment\nPage\n\n\n\n\nCE\nCavendish Experiment\nTBD\n\n\nCL\nCoulomb’s Law\nTBD\n\n\nCM\nCondensed Matter\nTBD\n\n\nCP\nChaotic Pendulum\nTBD\n\n\nDS\nDouble Slit\nTBD\n\n\nESR\nElectron Spin Resonance\nTBD\n\n\nFH\nFrank Hertz\nTBD\n\n\nMI\nModern Interferometry\nTBD\n\n\nMO\nMillikan Oil-Drop\nTBD\n\n\nMP\nMuon Physics\nTBD\n\n\nNMR\nPulsed Nuclear Magnetic Resonance\nTBD\n\n\nWP\nWave-Particle Duality\nTBD\n\n\nZE\nZeeman Effect\nTBD"
+  },
+  {
+    "objectID": "labs/index.html#available-experiments",
+    "href": "labs/index.html#available-experiments",
+    "title": "Labs",
+    "section": "",
+    "text": "You will complete four of the experiments below, and write an individual lab report for each one (25% of course grade each). Lab manuals are available in Canvas.\n\n\n\nCode\nExperiment\nPage\n\n\n\n\nCE\nCavendish Experiment\nTBD\n\n\nCL\nCoulomb’s Law\nTBD\n\n\nCM\nCondensed Matter\nTBD\n\n\nCP\nChaotic Pendulum\nTBD\n\n\nDS\nDouble Slit\nTBD\n\n\nESR\nElectron Spin Resonance\nTBD\n\n\nFH\nFrank Hertz\nTBD\n\n\nMI\nModern Interferometry\nTBD\n\n\nMO\nMillikan Oil-Drop\nTBD\n\n\nMP\nMuon Physics\nTBD\n\n\nNMR\nPulsed Nuclear Magnetic Resonance\nTBD\n\n\nWP\nWave-Particle Duality\nTBD\n\n\nZE\nZeeman Effect\nTBD"
+  },
+  {
+    "objectID": "course-files/syllabus.html",
+    "href": "course-files/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Fall 2026 | PHYS 4321 (Advanced Lab I) CRN #90814/90815 | PHYS 4322 (Advanced Lab II) CRN #93413/93414 | 3 credit hours\nSection B: Tuesdays and Thursdays, 3:30–6:15 PM ET · Boggs 1-11"
+  },
+  {
+    "objectID": "course-files/syllabus.html#course-description",
+    "href": "course-files/syllabus.html#course-description",
+    "title": "Syllabus",
+    "section": "1 Course Description",
+    "text": "1 Course Description\nExperiments are conducted that demonstrate basic principles from various fields of physics. An emphasis is placed on contemporary concepts in modern physics.\n\n1.1 Learning Outcomes\nUpon successful completion of this course, you should be able to write a clear, succinct, and precise lab report, with conclusions that are supported by your data and analysis."
+  },
+  {
+    "objectID": "course-files/syllabus.html#instructor-information",
+    "href": "course-files/syllabus.html#instructor-information",
+    "title": "Syllabus",
+    "section": "2 Instructor Information",
+    "text": "2 Instructor Information\n\n\n\nSection A instructor\nEric Murray\n\n\nSection A email\neric.murray@physics.gatech.edu\n\n\nSection B instructor\nAndrew J. Steinmetz\n\n\nSection B email\najsteinmetz@gatech.edu\n\n\nOffice (Section B)\nHowey W204\n\n\nOffice Hours (Section B)\nBy appointment"
+  },
+  {
+    "objectID": "course-files/syllabus.html#course-materials",
+    "href": "course-files/syllabus.html#course-materials",
+    "title": "Syllabus",
+    "section": "3 Course Materials",
+    "text": "3 Course Materials\nNone. Lab manuals are available in Canvas."
+  },
+  {
+    "objectID": "course-files/syllabus.html#grading-policy",
+    "href": "course-files/syllabus.html#grading-policy",
+    "title": "Syllabus",
+    "section": "4 Grading Policy",
+    "text": "4 Grading Policy\nEach lab report is worth 25% of the final grade, for a total of four lab reports. There are no exams. See the list of available experiments.\n\n4.1 Description of Graded Components\nLab reports are scored as follows:\n\n\n\nComponent\nPoints\n\n\n\n\nPerformance of experiment and quality of data\n50\n\n\nAnalysis and presentation of experiment\n30\n\n\nOther elements (including logbook keeping and late penalties)\n20\n\n\nTotal\n100\n\n\n\nScores are assigned to lab reports. That is, if you perform the experiment and keep a good notebook but do not submit a report, you will earn zero, not 70. Late penalties may result in an “other” score less than zero.\n\n\n\n4.2 Grading Scale\n\n\n\nLetter Grade\nPercentage\n\n\n\n\nA\n90–100%\n\n\nB\n80–89%\n\n\nC\n70–79%\n\n\nD\n60–69%\n\n\nF\n0–59%\n\n\n\nGeorgia Tech grading system"
+  },
+  {
+    "objectID": "course-files/syllabus.html#course-and-institution-policies",
+    "href": "course-files/syllabus.html#course-and-institution-policies",
+    "title": "Syllabus",
+    "section": "5 Course and Institution Policies",
+    "text": "5 Course and Institution Policies\n\n5.1 Attendance and Participation\nYou must be present for the first day of each experiment; contact your instructor if you will be unable to attend.\nOn subsequent days, you need attend only if you will be collecting data, although you are always welcome to attend. You should arrive in the first half-hour of the class meeting. If there are no students present after that, the instructors will lock the lab room and leave.\nYou may not use any data that you did not participate in collecting during the current semester.\n\n5.1.1 Late Work\nLab reports are due at the beginning of class. Late work is penalized; the penalty rate is TBD.\n\n\n\n\n5.2 Limited Generative AI Use Permitted\n\nUse of generative AI, such as Copilot, ChatGPT, Claude, Gemini, and similar tools, is permitted in this course, but only within instructor-approved boundaries. Examples may include stages of writing, revising work, providing feedback, grammar refinement, or coding assistance.\nGeorgia Tech OIT guidance on AI\nAI usage must be transparent and documented in an AI Usage Statement with each submission where it is used. See the AI Usage Statement page.\n\n\n5.3 Academic Integrity\nGeorgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards.\nIn particular, each student must turn in their own original lab report, based on data they participated in collecting in the current semester. Although you work in pairs, your laboratory reports are written individually (including text, tables, and figures). The protocol is to take data together, share your research and external resources, and discuss the experiment and results, as you would do in a research team, but write reports separately.\nAny student suspected of cheating or plagiarism on a report will be reported to the Office of Student Integrity, who will investigate the incident and identify the appropriate penalty for violations.\nGeorgia Tech Academic Honor Code\n\n\n5.4 Accommodations for Students with Disabilities\nIf you are a student with learning needs that require accommodation, contact the Office of Disability Services, often referred to as ADAPTS, at (404) 894-2563 or through the Office of Disability Services website as soon as possible to make an appointment to discuss your needs and to obtain an accommodations letter. Please also email your instructor to make an appointment for discussing your accommodation.\nGeorgia Tech Office of Disability Services\n\n\n5.5 Student-Faculty Expectations\nIt is important to strive for an atmosphere of mutual respect, acknowledgment, and responsibility between faculty members and the student body at Georgia Tech. The Student-Faculty Expectations articulate some basic expectations.\nGeorgia Tech student-faculty expectations"
+  },
+  {
+    "objectID": "course-files/ai-usage-statement.html",
+    "href": "course-files/ai-usage-statement.html",
+    "title": "How to Format an AI Usage Statement",
+    "section": "",
+    "text": "Limited use of generative AI tools, such as Copilot, ChatGPT, Claude, Gemini, and similar systems, is permitted in PHYS 4321/4322 only within instructor-approved boundaries. Examples of potentially appropriate use may include brainstorming, revising wording, receiving feedback, grammar refinement, or other support tasks connected to the writing process.\nWhen generative AI is used in preparing an assignment submission, students must include an AI Usage Statement with that assignment. The statement documents what tool was used, what was asked of it, what it produced, and how the student incorporated or revised that output.\n\n\n\n\n\n\nNote\n\n\n\nAI use is entirely optional. You are never required use generative AI in this course.\n\n\nOveruse of such tools is discouraged as there is growing evidence that reliance on AI can decrease one’s expertise and skills:\n\n“The ADR of standard colonoscopy decreased significantly from 28.4% (226 of 795) before to 22.4% (145 of 648) after exposure to AI, corresponding with an absolute difference of -6.0% (95% CI -10.5 to -1.6; p=0.0089). […] Continuous exposure to AI might reduce the ADR of standard non-AI assisted colonoscopy, suggesting a negative effect on endoscopist behaviour.” (Budzyń et al. 2025)\n\n\n\n\n\n\n\nImportant\n\n\n\nAI should never be used to generate a whole assignment from scratch. The final submission must reflect your own thinking, judgment, and revisions."
+  },
+  {
+    "objectID": "course-files/ai-usage-statement.html#overview",
+    "href": "course-files/ai-usage-statement.html#overview",
+    "title": "How to Format an AI Usage Statement",
+    "section": "",
+    "text": "Limited use of generative AI tools, such as Copilot, ChatGPT, Claude, Gemini, and similar systems, is permitted in PHYS 4321/4322 only within instructor-approved boundaries. Examples of potentially appropriate use may include brainstorming, revising wording, receiving feedback, grammar refinement, or other support tasks connected to the writing process.\nWhen generative AI is used in preparing an assignment submission, students must include an AI Usage Statement with that assignment. The statement documents what tool was used, what was asked of it, what it produced, and how the student incorporated or revised that output.\n\n\n\n\n\n\nNote\n\n\n\nAI use is entirely optional. You are never required use generative AI in this course.\n\n\nOveruse of such tools is discouraged as there is growing evidence that reliance on AI can decrease one’s expertise and skills:\n\n“The ADR of standard colonoscopy decreased significantly from 28.4% (226 of 795) before to 22.4% (145 of 648) after exposure to AI, corresponding with an absolute difference of -6.0% (95% CI -10.5 to -1.6; p=0.0089). […] Continuous exposure to AI might reduce the ADR of standard non-AI assisted colonoscopy, suggesting a negative effect on endoscopist behaviour.” (Budzyń et al. 2025)\n\n\n\n\n\n\n\nImportant\n\n\n\nAI should never be used to generate a whole assignment from scratch. The final submission must reflect your own thinking, judgment, and revisions."
+  },
+  {
+    "objectID": "course-files/ai-usage-statement.html#when-is-an-ai-usage-statement-required",
+    "href": "course-files/ai-usage-statement.html#when-is-an-ai-usage-statement-required",
+    "title": "How to Format an AI Usage Statement",
+    "section": "2 When Is an AI Usage Statement Required?",
+    "text": "2 When Is an AI Usage Statement Required?\nInclude an AI Usage Statement with any course submission in which you used generative AI in a meaningful way. This includes, but is not limited to:\n\nGenerating ideas, outlines, or possible approaches.\nReceiving feedback on a draft.\nRevising wording, organization, or clarity.\nUsing AI for grammar refinement or editing suggestions.\nUsing AI for coding, LaTeX, or formatting assistance connected to the assignment.\n\nIf you did not use generative AI for an assignment, no AI Usage Statement is required."
+  },
+  {
+    "objectID": "course-files/ai-usage-statement.html#required-components-of-the-ai-usage-statement",
+    "href": "course-files/ai-usage-statement.html#required-components-of-the-ai-usage-statement",
+    "title": "How to Format an AI Usage Statement",
+    "section": "3 Required Components of the AI Usage Statement",
+    "text": "3 Required Components of the AI Usage Statement\nEach AI Usage Statement should include the following four elements:\n\n\n\n\n\n\n\nRequired Item\nWhat to Include\n\n\n\n\n1. Tool used and date of access\nName the AI tool and indicate when you used it.\n\n\n2. Input prompt\nProvide the prompt or instruction you entered into the tool.\n\n\n3. Output received\nInclude a copy of the AI-generated output relevant to your assignment.\n\n\n4. How you used or edited it\nBriefly explain whether you adopted, rejected, revised, summarized, or otherwise used the output."
+  },
+  {
+    "objectID": "course-files/ai-usage-statement.html#what-if-i-used-ai-iteratively",
+    "href": "course-files/ai-usage-statement.html#what-if-i-used-ai-iteratively",
+    "title": "How to Format an AI Usage Statement",
+    "section": "4 What If I Used AI Iteratively?",
+    "text": "4 What If I Used AI Iteratively?\nGenerative AI use is often conversational and iterative. You are not expected to include every single prompt and every output from a long exchange. Instead, include no more than three of the most consequential or important conversational snippets. Select the examples that best show how AI affected your work.\nFor example, you might include:\n\nA prompt used to generate initial brainstorming ideas.\nA prompt asking for feedback on a draft paragraph.\nA prompt used to improve clarity or organization in a final revision."
+  },
+  {
+    "objectID": "course-files/ai-usage-statement.html#suggested-format",
+    "href": "course-files/ai-usage-statement.html#suggested-format",
+    "title": "How to Format an AI Usage Statement",
+    "section": "5 Suggested Format",
+    "text": "5 Suggested Format\nYou may upload the AI Usage Statement as a separate document which accompanies your main submission.\n\n5.1 AI Usage Statement Template\nName, course, and assignment.\nAI Tool: [Tool name]\nDate of Access: [Date]\nPrompt 1:\n\n[Paste the prompt you entered.]\n\nOutput 1:\n\n[Paste the relevant AI-generated output.]\n\nHow I Used or Edited This Output:\n\n[Briefly explain how the output informed your work, what you changed, and what you did not use.]"
+  },
+  {
+    "objectID": "course-files/ai-usage-statement.html#what-is-not-appropriate",
+    "href": "course-files/ai-usage-statement.html#what-is-not-appropriate",
+    "title": "How to Format an AI Usage Statement",
+    "section": "6 What Is Not Appropriate?",
+    "text": "6 What Is Not Appropriate?\nThe following are not consistent with course policy:\n\nSubmitting an assignment that was generated substantially or entirely by AI.\nUsing AI to invent experiences, qualifications, accomplishments, or participation records.\nUsing AI in a way that is prohibited by assignment-specific instructions.\nUsing AI but failing to disclose that use when a statement is required.\n\n\n\n\n\n\n\nTipWhen in doubt\n\n\n\nAsk the instructor before using generative AI for a course assignment."
+  },
+  {
+    "objectID": "course-files/ai-usage-statement.html#why-this-matters",
+    "href": "course-files/ai-usage-statement.html#why-this-matters",
+    "title": "How to Format an AI Usage Statement",
+    "section": "7 Why This Matters",
+    "text": "7 Why This Matters\nThe AI Usage Statement is not intended to discourage legitimate use of useful tools. Its purpose is to make the writing process transparent and to ensure that submitted work remains your own.\nFailure to follow the course AI policy, including using generative AI when it is not permitted or failing to disclose its use, may be considered a violation of Georgia Tech’s academic integrity policies."
+  },
+  {
+    "objectID": "course-files/ai-usage-statement.html#references",
+    "href": "course-files/ai-usage-statement.html#references",
+    "title": "How to Format an AI Usage Statement",
+    "section": "8 References",
+    "text": "8 References\n\n\nBudzyń, K. et al. 2025. “Endoscopist Deskilling Risk After Exposure to Artificial Intelligence in Colonoscopy: A Multicentre, Observational Study.” Lancet Gastroenterology & Hepatology 10 (10): 896–903. https://doi.org/10.1016/S2468-1253(25)00133-5."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome Page",
+    "section": "",
+    "text": "Fall 2026 | PHYS 4321 (Advanced Lab I) CRN #90814/90815 | PHYS 4322 (Advanced Lab II) CRN #93413/93414 | 3 credit hours\nTuesdays and Thursdays, 3:30–6:15 PM ET · Boggs 1-11 · Section B"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Welcome Page",
+    "section": "1 Welcome",
+    "text": "1 Welcome\nWelcome to PHYS 4321/4322: Advanced Laboratory I/II. In this course you will conduct experiments that demonstrate basic principles from various fields of physics, with an emphasis on contemporary concepts in modern physics. You will complete four experiments over the semester and write an individual lab report for each one.\n\n\n\n\n\n\nNote\n\n\n\nThis home page is a summary. Review the syllabus for full course policies. Lab manuals are available in Canvas."
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Welcome Page",
+    "section": "2 Course Description",
+    "text": "2 Course Description\nExperiments are conducted that demonstrate basic principles from various fields of physics. An emphasis is placed on contemporary concepts in modern physics.\n\n2.1 Learning Outcomes\n\nWrite a clear, succinct, and precise lab report, with conclusions that are supported by your data and analysis."
+  },
+  {
+    "objectID": "index.html#instructor-information",
+    "href": "index.html#instructor-information",
+    "title": "Welcome Page",
+    "section": "3 Instructor Information",
+    "text": "3 Instructor Information\n\n\n\nSection A (Mon./Wed.)\nEric Murray · eric.murray@physics.gatech.edu\n\n\nSection B (Tue./Thu.)\nAndrew J. Steinmetz · ajsteinmetz@gatech.edu\n\n\nOffice (Section B)\nHowey W204\n\n\nOffice Hours (Section B)\nBy appointment"
+  },
+  {
+    "objectID": "index.html#course-schedule",
+    "href": "index.html#course-schedule",
+    "title": "Welcome Page",
+    "section": "4 Course Schedule",
+    "text": "4 Course Schedule\nSection B meets every Tuesday and Thursday except holidays, from August 25 through December 8. Each experiment follows the same cycle: about three weeks in the lab collecting data, then about two weeks of writing. A report is due at the beginning of class on the day the next lab begins. The schedule below may be adjusted as needed throughout the semester.\n\n\n\nDate\nFocus\nMajor Due Dates\n\n\n\n\nAug. 25\nIntroduction\n-\n\n\nAug. 27\nLab 1\n-\n\n\nSept. 1\nLab 1\n-\n\n\nSept. 3\nLab 1\n-\n\n\nSept. 8\nNo meeting\n-\n\n\nSept. 10\nLab 1\n-\n\n\nSept. 15\nWrite 1\n-\n\n\nSept. 17\nWrite 1\n-\n\n\nSept. 22\nWrite 1\n-\n\n\nSept. 24\nLab 2\nReport 1 due\n\n\nSept. 29\nLab 2\n-\n\n\nOct. 1\nLab 2\n-\n\n\nOct. 6\nFall Break\n-\n\n\nOct. 8\nLab 2\n-\n\n\nOct. 13\nWrite 2\n-\n\n\nOct. 15\nWrite 2\n-\n\n\nOct. 20\nWrite 2\n-\n\n\nOct. 22\nLab 3\nReport 2 due\n\n\nOct. 27\nLab 3\n-\n\n\nOct. 29\nLab 3\n-\n\n\nNov. 3\nLab 3\n-\n\n\nNov. 5\nWrite 3\n-\n\n\nNov. 10\nWrite 3\n-\n\n\nNov. 12\nLab 4\nReport 3 due\n\n\nNov. 17\nLab 4\n-\n\n\nNov. 19\nLab 4\n-\n\n\nNov. 24\nLab 4\n-\n\n\nNov. 26\nHoliday\n-\n\n\nDec. 1\nWrite 4\n-\n\n\nDec. 3\nWrite 4\n-\n\n\nDec. 8\nReport 4\nReport 4 due"
+  },
+  {
+    "objectID": "index.html#experiments-and-grading",
+    "href": "index.html#experiments-and-grading",
+    "title": "Welcome Page",
+    "section": "5 Experiments and Grading",
+    "text": "5 Experiments and Grading\nThere are no exams in this course. Your grade is based on four lab reports, each worth 25% of the course grade. Choose your experiments from the list of available experiments.\nEach lab report is scored as follows:\n\n\n\nComponent\nPoints\n\n\n\n\nPerformance of experiment and quality of data\n50\n\n\nAnalysis and presentation of experiment\n30\n\n\nOther elements (including logbook keeping and late penalties)\n20\n\n\nTotal\n100\n\n\n\nScores are assigned to lab reports. If you perform the experiment and keep a good notebook but do not submit a report, you will earn zero, not 70. Reports are due at the beginning of class, and late work is penalized. Late penalties may result in an “other” score less than zero."
+  },
+  {
+    "objectID": "index.html#important-links-and-resources",
+    "href": "index.html#important-links-and-resources",
+    "title": "Welcome Page",
+    "section": "6 Important Links and Resources",
+    "text": "6 Important Links and Resources\n\n\nCourse Resources\n\nSyllabus\nAvailable experiments\nTechnical and professional writing\n\n\nCampus Resources and Policies\n\nOffice of Disability Services / ADAPTS\nGeorgia Tech Academic Honor Code\nGeorgia Tech grading system\nStudent-faculty expectations"
+  },
+  {
+    "objectID": "index.html#a-few-important-course-notes",
+    "href": "index.html#a-few-important-course-notes",
+    "title": "Welcome Page",
+    "section": "7 A Few Important Course Notes",
+    "text": "7 A Few Important Course Notes\n\nAttend the first day of each experiment. Contact your instructor if you will be unable to attend.\nAfter the first day, attend only when collecting data. You are always welcome to attend. Arrive in the first half-hour of the class meeting; if no students are present after that, the instructors will lock the lab room and leave.\nUse only data you helped collect. You may not use any data that you did not participate in collecting during the current semester.\nYou work in pairs, but you write alone. Take data together, share your research and external resources, and discuss the experiment and results as you would in a research team, but write your report separately, including text, tables, and figures.\nNo textbook is required. Lab manuals are available in Canvas."
+  },
+  {
+    "objectID": "index.html#copyright",
+    "href": "index.html#copyright",
+    "title": "Welcome Page",
+    "section": "8 Copyright",
+    "text": "8 Copyright\n© 2026 Andrew J. Steinmetz. Course materials are licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt this material for any purpose, provided you give appropriate credit to the original author and indicate if changes were made.\n\n8.1 AI Disclosure\nSome course materials were developed with assistance from generative AI tools, including Claude (Anthropic), Copilot (Microsoft), ChatGPT (OpenAI), and Gemini (Google). All AI-generated content was reviewed, edited, and approved by the instructor before use."
+  },
+  {
+    "objectID": "lectures/index.html",
+    "href": "lectures/index.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Fall 2026\n\n\n\n#\nDate\nTopic\nSlides\n\n\n\n\n1\nTBD\nLab Guidelines\nOpen slides\n\n\n2\nTBD\nWriting a Lab Report\nOpen slides"
+  },
+  {
+    "objectID": "lectures/lab-report.html#who-you-are-writing-for",
+    "href": "lectures/lab-report.html#who-you-are-writing-for",
+    "title": "Writing a Lab Report",
+    "section": "Who you are writing for",
+    "text": "Who you are writing for\nYour report is a standalone technical document, not a worksheet attached to the lab manual.\n\n\nYour reader\n\nHas your physics training\nHas not read the manual\nCannot see your apparatus\n\n\nYour job\n\nExplain the physics\nExplain why each step was done\nBe detailed enough to be reproduced and trusted\n\n\n\nContent matters more than length. You are the expert here."
+  },
+  {
+    "objectID": "lectures/lab-report.html#anatomy-of-a-report",
+    "href": "lectures/lab-report.html#anatomy-of-a-report",
+    "title": "Writing a Lab Report",
+    "section": "Anatomy of a report",
+    "text": "Anatomy of a report\n\n\n\n\n\n\nSection\n\n\n\n\nTitle, authors, affiliation, date\n\n\nAbstract\n\n\nIntroduction\n\n\nTheory\n\n\nExperimental methods\n\n\nData and analysis\n\n\nDiscussion\n\n\nConclusion\n\n\nReferences\n\n\nAppendices\n\n\n\n\n\nThe abstract\nLets a reader decide whether to read the rest.\n\nThe topic of the experiment\nThe technique(s) used\nThe result, with its uncertainty\n\n\nWrite it last, and plan enough time to write the report at all."
+  },
+  {
+    "objectID": "lectures/lab-report.html#introduction-and-theory",
+    "href": "lectures/lab-report.html#introduction-and-theory",
+    "title": "Writing a Lab Report",
+    "section": "Introduction and theory",
+    "text": "Introduction and theory\n\n\nIntroduction\n\nMotivate the scientific question\nGive the historical context\nEnough physics that the motivation lands\nMention a modern use of the same physics\n\n\nTheory\n\nSet up the problem, define terms\nMain steps and approximations, not every line of algebra\nLong derivations go in an Appendix\nNumber your equations\n\n\n\nThis is where the reader sees your background work and can themselves be brought up to speed."
+  },
+  {
+    "objectID": "lectures/lab-report.html#experimental-methods",
+    "href": "lectures/lab-report.html#experimental-methods",
+    "title": "Writing a Lab Report",
+    "section": "Experimental methods",
+    "text": "Experimental methods\n\n\nDo\n\nExplain how the apparatus works\nInclude a schematic with every critical part labeled\nSimple functional boxes\nReference the figure early\n\n\nDon’t\n\nDraw every knob and cable\nWrite an instruction manual\nRecite a parts list\nSay “we used the setup in the manual”\n\n\n\nA diagram that helps you perform the experiment usually does not help a reader understand it. This likely requires you to draft your own diagram."
+  },
+  {
+    "objectID": "lectures/lab-report.html#figures-tables-and-data",
+    "href": "lectures/lab-report.html#figures-tables-and-data",
+    "title": "Writing a Lab Report",
+    "section": "Figures, tables, and data",
+    "text": "Figures, tables, and data\n\n\nEvery figure and table\n\nNumbered sequentially, figures and tables counted separately\nA caption defining symbols and stating conditions\nReferenced in the text, and ideally discussed\nColumn headings descriptive, units in the heading\n\n\nEvery plot\n\nAxis labels with units\nEven divisions at round values: 0.5, 1.0, 1.5, etc.\nSI prefixes, not long decimals: 0.5 mA, not 0.0005 A\nData as symbols, fit as a line, same axes\nError bars on every point"
+  },
+  {
+    "objectID": "lectures/lab-report.html#uncertainties-and-results",
+    "href": "lectures/lab-report.html#uncertainties-and-results",
+    "title": "Writing a Lab Report",
+    "section": "Uncertainties and results",
+    "text": "Uncertainties and results\n\n\n\nEvery measured value gets an uncertainty, and so does every value you take from elsewhere\nSo does every derived quantity: \\(h\\), \\(e/m\\), wavelength \\(\\lambda\\), etc.\n\n\n\nExplain how you determined it. A sample calculation in the Appendix may be appropriate.\nCompare to accepted value: does your data fit, or why not?\nPercent error is rarely helpful\n\n\n\nWrite this:\\(\\quad G = (6.674\\,30 \\pm 0.000\\,15) \\times 10^{-11}\\ \\mathrm{N\\,m^2/kg^2}\\)\nNot this:\\(\\quad G = 6.674\\,30 \\times 10^{-11}\\ \\mathrm{N\\,m^2/kg^2} \\pm 1.5 \\times 10^{-15}\\ \\mathrm{N\\,m^2/kg^2}\\)\n\n\nRound the uncertainty first to one significant figure, two at most. Then round the value so that it stops at the same decimal place."
+  },
+  {
+    "objectID": "lectures/lab-report.html#where-uncertainty-comes-from",
+    "href": "lectures/lab-report.html#where-uncertainty-comes-from",
+    "title": "Writing a Lab Report",
+    "section": "Where uncertainty comes from",
+    "text": "Where uncertainty comes from\n\n\nStatistical (random)\n\nMeasurement-to-measurement scatter\n\\(s\\) is the scatter of individual measurements\n\\(\\sigma_{\\bar{x}} = s/\\sqrt{N}\\) is the uncertainty of the mean — this is what you report\nShrinks as you take more data\n\n\nSystematic (instrumental)\n\nCalibration, zero offset, instrument accuracy, temperature\nAnalog: half the smallest division. Digital: one unit of the last digit, or the manufacturer spec\nMore data does not help\n\n\n\nTaking 10,000 readings with a miscalibrated voltmeter does not fix the calibration."
+  },
+  {
+    "objectID": "lectures/lab-report.html#propagating-uncertainty",
+    "href": "lectures/lab-report.html#propagating-uncertainty",
+    "title": "Writing a Lab Report",
+    "section": "Propagating uncertainty",
+    "text": "Propagating uncertainty\nFor \\(f = f(x_1, x_2, \\ldots)\\) with independent uncertainties:\n\n\\[\\sigma_f^2 = \\sum_i \\left(\\frac{\\partial f}{\\partial x_i}\\right)^{2} \\sigma_i^2\\]\n\n\n\n\n\n\n\n\n\n\nIf\nThen\n\n\n\n\n\n\\(f = x \\pm y\\)\n\\(\\sigma_f = \\sqrt{\\sigma_x^2 + \\sigma_y^2}\\)\nAbsolute uncertainties add in quadrature\n\n\n\\(f = xy\\) or \\(x/y\\)\n\\((\\sigma_f/f)^2 = (\\sigma_x/x)^2 + (\\sigma_y/y)^2\\)\nFractional uncertainties add in quadrature\n\n\n\\(f = x^n\\)\n\\(\\sigma_f/\\lvert f \\rvert = \\lvert n \\rvert\\, \\sigma_x/\\lvert x \\rvert\\)\nA power scales the fractional uncertainty\n\n\n\n\n\nStatistical and systematic terms combine the same way: \\(\\sigma_\\mathrm{total}^{2} = \\sigma_{\\bar{x}}^{2} + \\sigma_\\mathrm{inst}^{2} + \\cdots\\), reported as \\(x_\\mathrm{best} \\pm \\sigma_\\mathrm{total}\\) with units."
+  },
+  {
+    "objectID": "lectures/lab-report.html#discussion-and-conclusion",
+    "href": "lectures/lab-report.html#discussion-and-conclusion",
+    "title": "Writing a Lab Report",
+    "section": "Discussion and conclusion",
+    "text": "Discussion and conclusion\n\n\nDiscussion\n\nDo your results agree with the accepted value?\nIf not, why — with a calculation or a reference, not a shrug\nName the dominant source of error\n\n\nConclusion\n\nShort summary of what you did and found\nRepeat the results with their uncertainties, digits, and units\nWhat the experiment opens up\n\n\n\nInspect each term in the propagation of error separately. The largest one is what “suggestions for improvement” should target."
+  },
+  {
+    "objectID": "lectures/lab-report.html#style-and-typesetting",
+    "href": "lectures/lab-report.html#style-and-typesetting",
+    "title": "Writing a Lab Report",
+    "section": "Style and typesetting",
+    "text": "Style and typesetting\nSuggestion: Use LaTeX in Overleaf, available through Georgia Tech, with the APS RevTeX template.\n\n\n\n\n\n\n\n\n\n\nWrite this\nNot this\n\n\n\n\n\\(c\\)\nc\n\n\n\\(c = 2.998 \\times 10^8\\ \\mathrm{m/s}\\)\n\\(c = 2.998 \\times 10^8\\, m/s\\)\n\n\n\\(m\\lambda = d \\sin\\theta\\)\n\\(m\\lambda = d sin \\theta\\)\n\n\n\\(2.3 \\times 10^5\\)\n2.3e5\n\n\n\\(B^2\\), \\(B_2\\)\nB^2, B_2\n\n\n\n\n\n\nReal superscripts and subscripts using LaTeX e.g. x^{2}_{i} for \\(x^{2}_{i}\\)\nNumber your sections so you can point back to them\nProofread. Careless writing counts against you\n\n\nThe point of style and typesetting is to look nice. A nice looking document is easy to read and conveys information without much visual friction."
+  },
+  {
+    "objectID": "lectures/lab-report.html#citations",
+    "href": "lectures/lab-report.html#citations",
+    "title": "Writing a Lab Report",
+    "section": "Citations",
+    "text": "Citations\n\n\nCite it\n\nAnything from anywhere including the lab manual\nWhat another person told you\nNumbered in citation order [1]\nPeer-reviewed or academic sources, not Wikipedia\n\n\nLet BibTeX do it\n\n@article{LIGOScientific:2016aoc,\n    author = \"Abbott, B. P. and others\",\n    collaboration = \"LIGO Scientific, Virgo\",\n    title = \"{Observation of Gravitational Waves from a Binary Black Hole Merger}\",\n    eprint = \"1602.03837\",\n    archivePrefix = \"arXiv\",\n    primaryClass = \"gr-qc\",\n    reportNumber = \"LIGO-P150914\",\n    doi = \"10.1103/PhysRevLett.116.061102\",\n    journal = \"Phys. Rev. Lett.\",\n    volume = \"116\",\n    number = \"6\",\n    pages = \"061102\",\n    year = \"2016\"\n}\n\n\n\nCite it with \\cite{LIGOScientific:2016aoc}. Journal pages, INSPIRE-HEP, Google Scholar, and NASA ADS export these for you. Otherwise, you may need to write your own BibTeX/references.\n\n\n[1] B. P. Abbott, et al. Phys. Rev. Lett. 116, no.6, 061102 (2016). doi:10.1103/PhysRevLett.116.061102 arXiv:1602.03837 [gr-qc]"
+  },
+  {
+    "objectID": "lectures/lab-report.html#academic-integrity",
+    "href": "lectures/lab-report.html#academic-integrity",
+    "title": "Writing a Lab Report",
+    "section": "Academic integrity",
+    "text": "Academic integrity\n\n\nTwo ways to plagiarize\nLiteral — copying a sentence and swapping a few words. Cosmetic edits do not save you.\nIntelligent — restating someone’s idea as your own. Rewriting removes the copying, not the need to cite.\n\nWhere it happens\n\nThe Introduction, most often — it is the hardest section to write\nQuote directly, or write it in your own words; either way, cite it\nA paragraph stitched from quotes is not an original contribution\n\n\n\nDo not work from previous years’ reports. In doubt? Ask."
+  },
+  {
+    "objectID": "supplemental/notebook-guidelines.html",
+    "href": "supplemental/notebook-guidelines.html",
+    "title": "Lab Notebook Guidelines",
+    "section": "",
+    "text": "TBD"
+  },
+  {
+    "objectID": "supplemental/notebook-guidelines.html#purpose",
+    "href": "supplemental/notebook-guidelines.html#purpose",
+    "title": "Lab Notebook Guidelines",
+    "section": "",
+    "text": "TBD"
+  }
+]
