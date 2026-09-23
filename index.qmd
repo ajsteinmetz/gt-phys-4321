@@ -42,7 +42,6 @@ Section B meets every Tuesday and Thursday except holidays, from **August 25 thr
 | Aug. 27 | Lab 1 | - |
 | Sept. 1 | Lab 1 | - |
 | Sept. 3 | Lab 1 | - |
-| Sept. 8 | **No meeting** | - |
 | Sept. 10 | Lab 1 | - |
 | Sept. 15 | Write 1 | - |
 | Sept. 17 | Write 1 | - |
@@ -50,7 +49,6 @@ Section B meets every Tuesday and Thursday except holidays, from **August 25 thr
 | Sept. 24 | Lab 2 | **Report 1 due** |
 | Sept. 29 | Lab 2 | - |
 | Oct. 1 | Lab 2 | - |
-| Oct. 6 | **Fall Break** | - |
 | Oct. 8 | Lab 2 | - |
 | Oct. 13 | Write 2 | - |
 | Oct. 15 | Write 2 | - |
@@ -65,12 +63,9 @@ Section B meets every Tuesday and Thursday except holidays, from **August 25 thr
 | Nov. 17 | Lab 4 | - |
 | Nov. 19 | Lab 4 | - |
 | Nov. 24 | Lab 4 | - |
-| Nov. 26 | **Holiday** | - |
 | Dec. 1 | Write 4 | - |
 | Dec. 3 | Write 4 | - |
 | Dec. 8 | Report 4 | **Report 4 due** |
-
-<!-- The instructor calendar prints the Section B Lab 2 / Report 1 date as Sep 25, a Friday with no class; Thursday Sept. 24 is used. -->
 
 ## Experiments and Grading
 
