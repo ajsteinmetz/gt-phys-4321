@@ -1,0 +1,20 @@
+---
+title: "Lab Guidelines"
+subtitle: "PHYS 4321/4322 &middot; Advanced Lab"
+author: "Andrew J. Steinmetz"
+format:
+  revealjs:
+    theme: [default, gatech-revealjs.css]
+    slide-number: c/t
+    transition: none
+    footer: "PHYS 4321/4322 &middot; Georgia Institute of Technology"
+    width: 1200
+    height: 750
+    auto-stretch: false
+---
+
+## Lab guidelines
+
+TBD
+
+<!-- TODO: not yet written. -->

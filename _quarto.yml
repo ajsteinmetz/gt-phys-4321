@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "PHYS 4321/4322"
+  navbar:
+    background: "#003057"
+    foreground: "#EAAA00"
+    pinned: true
+    search: true
+    left:
+      - text: "Course Files"
+        menu:
+          - course-files/syllabus.qmd
+          - course-files/ai-usage-statement.qmd
+      - text: "Labs"
+        href: labs/index.qmd
+      - text: "Supplemental"
+        menu:
+          - supplemental/technical-writing.qmd
+          - supplemental/notebook-guidelines.qmd
+          - supplemental/error-analysis.qmd
+          - text: "Writing a Lab Report (slides)"
+            href: lectures/lab-report.qmd
+      - text: "Lectures"
+        href: lectures/index.qmd
+
+format:
+  html:
+    theme: default
+    css: gatech-theme.css
+    number-sections: true
+    html-math-method: mathml
+    toc: false
+    embed-resources: false
+
+bibliography: references.bib
+
+execute:
+  freeze: auto

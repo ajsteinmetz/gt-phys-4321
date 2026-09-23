@@ -1,0 +1,13 @@
+---
+title: "Lectures"
+subtitle: "PHYS 4321/4322: Advanced Laboratory I/II"
+---
+
+**Fall 2026**
+
+| # | Date | Topic | Slides |
+|---|---|---|---|
+| 1 | TBD | Lab Guidelines | [Open slides](lab-guidelines.qmd){target="_blank"} |
+| 2 | TBD | Writing a Lab Report | [Open slides](lab-report.qmd){target="_blank"} |
+
+<!-- TODO: add dates once the lecture schedule is set. Lab guidelines slides are an unfinished stub. -->

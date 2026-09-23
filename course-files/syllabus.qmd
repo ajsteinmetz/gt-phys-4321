@@ -1,0 +1,112 @@
+---
+title: "Syllabus"
+subtitle: "PHYS 4321/4322: Advanced Laboratory I/II"
+---
+
+**Fall 2026 | PHYS 4321 CRN #90814/90815 | PHYS 4322 CRN #93413/93414 | 3 credit hours**
+
+**Section B: Tuesdays and Thursdays, 3:30&ndash;6:15 PM ET &middot; Boggs 1-11**
+
+<!-- TODO: confirm which CRN belongs to which section (A: Mon/Wed, B: Tue/Thu). -->
+
+## Course Description
+
+Experiments are conducted that demonstrate basic principles from various fields of physics. An emphasis is placed on contemporary concepts in modern physics.
+
+### Learning Outcomes
+
+Upon successful completion of this course, you should be able to write a clear, succinct, and precise lab report, with conclusions that are supported by your data and analysis.
+
+## Instructor Information
+
+| | |
+|---|---|
+| **Section A instructor** | Eric Murray |
+| **Section A email** | [eric.murray@physics.gatech.edu](mailto:eric.murray@physics.gatech.edu) |
+| **Section B instructor** | Andrew J. Steinmetz |
+| **Section B email** | [ajsteinmetz@gatech.edu](mailto:ajsteinmetz@gatech.edu) |
+| **Office (Section B)** | Howey W204 |
+| **Office Hours (Section B)** | [By appointment](https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous&ismsaljsauthenabled&ep=plink) |
+
+## Course Materials
+
+None. Lab manuals are available in Canvas.
+
+## Grading Policy
+
+Each lab report is worth **25% of the final grade**, for a total of four lab reports. There are no exams. See the [list of available experiments](../labs/index.qmd).
+
+### Description of Graded Components
+
+Lab reports are scored as follows:
+
+| Component | Points |
+|---|---|
+| Performance of experiment and quality of data | 50 |
+| Analysis and presentation of experiment | 30 |
+| Other elements (including logbook keeping and late penalties) | 20 |
+| **Total** | **100** |
+
+Scores are assigned to lab reports. That is, if you perform the experiment and keep a good notebook but do not submit a report, you will earn zero, not 70. Late penalties may result in an "other" score less than zero.
+
+<!-- TODO: state the late-penalty rate and the report due time once decided. -->
+
+### Grading Scale
+
+| Letter Grade | Percentage |
+|---|---|
+| A | 90&ndash;100% |
+| B | 80&ndash;89% |
+| C | 70&ndash;79% |
+| D | 60&ndash;69% |
+| F | 0&ndash;59% |
+
+[Georgia Tech grading system](http://registrar.gatech.edu/info/grading-system)
+
+## Course and Institution Policies
+
+### Attendance and Participation
+
+You must be present for the first day of each experiment; contact your instructor if you will be unable to attend.
+
+On subsequent days, you need attend only if you will be collecting data, although you are always welcome to attend. You should arrive in the first half-hour of the class meeting. If there are no students present after that, the instructors will lock the lab room and leave.
+
+You may not use any data that you did not participate in collecting during the current semester.
+
+#### Late Work
+
+Late penalties apply to lab reports. Details: TBD.
+
+<!-- TODO: late-work policy is not in the source syllabus beyond "late penalties may apply." -->
+
+### Limited Generative AI Use Permitted
+
+<!-- TODO: revise this section for PHYS 4321/4322 (carried over from PHYS 4604). -->
+
+Use of generative AI, such as Copilot, ChatGPT, Claude, Gemini, and similar tools, is permitted in this course, but only within instructor-approved boundaries. Examples may include stages of writing, revising work, providing feedback, grammar refinement, or coding assistance.
+
+[Georgia Tech OIT guidance on AI](https://oit.gatech.edu/ai/guidance)
+
+AI usage must be transparent and documented in an **AI Usage Statement** with each submission where it is used. See the [AI Usage Statement](ai-usage-statement.qmd) page.
+
+### Academic Integrity
+
+Georgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards.
+
+In particular, each student must turn in their own original lab report, based on data they participated in collecting in the current semester. Although you work in pairs, your laboratory reports are written individually (including text, tables, and figures). The protocol is to take data together, share your research and external resources, and discuss the experiment and results, as you would do in a research team, but write reports separately.
+
+Any student suspected of cheating or plagiarism on a report will be reported to the Office of Student Integrity, who will investigate the incident and identify the appropriate penalty for violations.
+
+[Georgia Tech Academic Honor Code](https://osi.gatech.edu/students/honor-code)
+
+### Accommodations for Students with Disabilities
+
+If you are a student with learning needs that require accommodation, contact the Office of Disability Services, often referred to as ADAPTS, at [(404) 894-2563](tel:4048942563) or through the Office of Disability Services website as soon as possible to make an appointment to discuss your needs and to obtain an accommodations letter. Please also email your instructor to make an appointment for discussing your accommodation.
+
+[Georgia Tech Office of Disability Services](http://disabilityservices.gatech.edu/)
+
+### Student-Faculty Expectations
+
+It is important to strive for an atmosphere of mutual respect, acknowledgment, and responsibility between faculty members and the student body at Georgia Tech. The Student-Faculty Expectations articulate some basic expectations.
+
+[Georgia Tech student-faculty expectations](http://www.catalog.gatech.edu/rules/22/)

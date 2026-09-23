@@ -1,0 +1,26 @@
+---
+title: "Labs"
+subtitle: "PHYS 4321/4322: Advanced Laboratory I/II"
+---
+
+## Available Experiments
+
+You will complete **four** of the experiments below, and write an individual lab report for each one (25% of course grade each). Lab manuals are available in Canvas.
+
+| Code | Experiment | Page |
+|---|---|---|
+| CE | Cavendish Experiment | TBD |
+| CL | Coulomb's Law | TBD |
+| CM | Condensed Matter | TBD |
+| CP | Chaotic Pendulum | TBD |
+| DS | Double Slit | TBD |
+| ESR | Electron Spin Resonance | TBD |
+| FH | Frank Hertz | TBD |
+| MI | Modern Interferometry | TBD |
+| MO | Milliken Oil-Drop | TBD |
+| MP | Muon Physics | TBD |
+| NMR | Pulsed Nuclear Magnetic Resonance | TBD |
+| WP | Wave-Particle Duality | TBD |
+| ZE | Zeeman Effect | TBD |
+
+<!-- TODO: add a page per experiment (labs/<code>.qmd) and link it in the table; confirm "Milliken" vs. "Millikan" spelling. -->

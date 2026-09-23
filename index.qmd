@@ -1,0 +1,130 @@
+---
+title: "Welcome Page"
+subtitle: "PHYS 4321/4322: Advanced Laboratory I/II"
+---
+
+**Fall 2026 | PHYS 4321 CRN #90814/90815 | PHYS 4322 CRN #93413/93414 | 3 credit hours**
+
+**Tuesdays and Thursdays, 3:30&ndash;6:15 PM ET &middot; Boggs 1-11 &middot; Section B**
+
+<!-- TODO: confirm which CRN belongs to which section (A: Mon/Wed, B: Tue/Thu). -->
+
+## Welcome
+
+Welcome to **PHYS 4321/4322: Advanced Laboratory I/II**. In this course you will conduct experiments that demonstrate basic principles from various fields of physics, with an emphasis on contemporary concepts in modern physics. You will complete four experiments over the semester and write an individual lab report for each one.
+
+::: {.callout-note}
+This home page is a summary. Review the [syllabus](course-files/syllabus.qmd) for full course policies. Lab manuals are available in Canvas.
+:::
+
+## Course Description
+
+Experiments are conducted that demonstrate basic principles from various fields of physics. An emphasis is placed on contemporary concepts in modern physics.
+
+### Learning Outcomes
+
+- Write a clear, succinct, and precise lab report, with conclusions that are supported by your data and analysis.
+
+## Instructor Information
+
+| | |
+|---|---|
+| **Section A (Mon./Wed.)** | Eric Murray &middot; [eric.murray@physics.gatech.edu](mailto:eric.murray@physics.gatech.edu) |
+| **Section B (Tue./Thu.)** | Andrew J. Steinmetz &middot; [ajsteinmetz@gatech.edu](mailto:ajsteinmetz@gatech.edu) |
+| **Office (Section B)** | Howey W204 |
+| **Office Hours (Section B)** | [By appointment](https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous&ismsaljsauthenabled&ep=plink) |
+
+## Course Schedule
+
+Section B meets every Tuesday and Thursday except holidays, from **August 25 through December 8**. Each experiment follows the same cycle: about three weeks in the lab collecting data, then about two weeks of writing. A report is due on the day the next lab begins. The schedule below may be adjusted as needed throughout the semester.
+
+| Date | Focus | Major Due Dates |
+|---|---|---|
+| Aug. 25 | Introduction | - |
+| Aug. 27 | Lab 1 | - |
+| Sept. 1 | Lab 1 | - |
+| Sept. 3 | Lab 1 | - |
+| Sept. 8 | **No meeting** | - |
+| Sept. 10 | Lab 1 | - |
+| Sept. 15 | Write 1 | - |
+| Sept. 17 | Write 1 | - |
+| Sept. 22 | Write 1 | - |
+| Sept. 24 | Lab 2 | **Report 1 due** |
+| Sept. 29 | Lab 2 | - |
+| Oct. 1 | Lab 2 | - |
+| Oct. 6 | **Fall Break** | - |
+| Oct. 8 | Lab 2 | - |
+| Oct. 13 | Write 2 | - |
+| Oct. 15 | Write 2 | - |
+| Oct. 20 | Write 2 | - |
+| Oct. 22 | Lab 3 | **Report 2 due** |
+| Oct. 27 | Lab 3 | - |
+| Oct. 29 | Lab 3 | - |
+| Nov. 3 | Lab 3 | - |
+| Nov. 5 | Write 3 | - |
+| Nov. 10 | Write 3 | - |
+| Nov. 12 | Lab 4 | **Report 3 due** |
+| Nov. 17 | Lab 4 | - |
+| Nov. 19 | Lab 4 | - |
+| Nov. 24 | Lab 4 | - |
+| Nov. 26 | **Holiday** | - |
+| Dec. 1 | Write 4 | - |
+| Dec. 3 | Write 4 | - |
+| Dec. 8 | Report 4 | **Report 4 due** |
+
+<!-- TODO: The instructor calendar prints the Section B Lab 2 / Report 1 date as Sep 25 (a Friday); Sept. 24 (Thursday) assumed. Confirm. Also confirm the report due time (11:59 PM ET is the course default) and whether it is due at the start of class or end of day. -->
+
+## Experiments and Grading
+
+There are no exams in this course. Your grade is based on four lab reports, each worth **25% of the course grade**. Choose your experiments from the [list of available experiments](labs/index.qmd).
+
+Each lab report is scored as follows:
+
+| Component | Points |
+|---|---|
+| Performance of experiment and quality of data | 50 |
+| Analysis and presentation of experiment | 30 |
+| Other elements (including logbook keeping and late penalties) | 20 |
+| **Total** | **100** |
+
+Scores are assigned to lab reports. If you perform the experiment and keep a good notebook but do not submit a report, you will earn zero, not 70. Late penalties may result in an "other" score less than zero.
+
+## Important Links and Resources
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Course Resources**
+
+- [Syllabus](course-files/syllabus.qmd)
+- [Available experiments](labs/index.qmd)
+- [Writing a lab report (slides)](lectures/lab-report.qmd){target="_blank"}
+- [Technical and professional writing](supplemental/technical-writing.qmd)
+:::
+
+::: {.column width="50%"}
+**Campus Resources and Policies**
+
+- [Office of Disability Services / ADAPTS](https://disabilityservices.gatech.edu/)
+- [Georgia Tech Academic Honor Code](https://osi.gatech.edu/students/honor-code)
+- [Georgia Tech grading system](http://registrar.gatech.edu/info/grading-system)
+- [Student-faculty expectations](http://www.catalog.gatech.edu/rules/22/)
+:::
+
+::::
+
+## A Few Important Course Notes
+
+- **Attend the first day of each experiment.** Contact your instructor if you will be unable to attend.
+- **After the first day, attend only when collecting data.** You are always welcome to attend. Arrive in the first half-hour of the class meeting; if no students are present after that, the instructors will lock the lab room and leave.
+- **Use only data you helped collect.** You may not use any data that you did not participate in collecting during the current semester.
+- **You work in pairs, but you write alone.** Take data together, share your research and external resources, and discuss the experiment and results as you would in a research team, but write your report separately, including text, tables, and figures.
+- **No textbook is required.** Lab manuals are available in Canvas.
+
+## Copyright
+
+&copy; 2026 Andrew J. Steinmetz. Course materials are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this material for any purpose, provided you give appropriate credit to the original author and indicate if changes were made.
+
+### AI Disclosure
+
+Some course materials were developed with assistance from generative AI tools, including Claude (Anthropic), Copilot (Microsoft), ChatGPT (OpenAI), and Gemini (Google). All AI-generated content was reviewed, edited, and approved by the instructor before use.
