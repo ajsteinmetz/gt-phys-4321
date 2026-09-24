@@ -7,7 +7,7 @@ subtitle: "PHYS 4321/4322: Advanced Laboratory I/II"
 
 :::: {.columns}
 
-::: {.column style="width: 70%; padding-right: 2em;"}
+::: {.column style="width: 65%; padding-right: 2em;"}
 Based on American Physical Society (APS) *Physical Review* journals [@aps_ai_policy; @aps_ai_news2026], we follow a similar policy on AI tools. The idea is simple: **if you use AI tools, you must say how, and you are responsible for everything in your report.**
 
 This page covers generative AI tools such as ChatGPT, Claude, Gemini, Copilot, and similar systems, including AI features built into editors and coding environments.
@@ -18,7 +18,7 @@ AI use is *entirely optional*. You are never required to use generative AI in th
 
 :::
 
-::: {.column width="30%"}
+::: {.column width="35%"}
 ![](../lectures/figs/fluff/ibm-1979-accountable.jpg){fig-align="center" width="100%" fig-alt="Photo of a 1979 IBM training slide reading: A computer can never be held accountable. Therefore a computer must never make a management decision."}
 
 ::: {style="text-align: center; color: #555;"}
