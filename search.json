@@ -95,7 +95,7 @@
     "href": "course-files/syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Fall 2026 | PHYS 4321 (Advanced Lab I) CRN #90814/90815 | PHYS 4322 (Advanced Lab II) CRN #93413/93414 | 3 credit hours\nSection B: Tuesdays and Thursdays, 3:30–6:15 PM ET · Boggs 1-11"
+    "text": "Fall 2026 · 3 credit hours · 3:30–6:15 PM ET · Boggs 1-11\nThe course runs in two sections with the same policies, experiments, and grading. Section A meets Mondays and Wednesdays; Section B meets Tuesdays and Thursdays."
   },
   {
     "objectID": "course-files/syllabus.html#course-description",
@@ -109,7 +109,7 @@
     "href": "course-files/syllabus.html#instructor-information",
     "title": "Syllabus",
     "section": "2 Instructor Information",
-    "text": "2 Instructor Information\n\n\n\nSection A instructor\nEric Murray\n\n\nSection A email\neric.murray@physics.gatech.edu\n\n\nSection B instructor\nAndrew J. Steinmetz\n\n\nSection B email\najsteinmetz@gatech.edu\n\n\nOffice (Section B)\nHowey W204\n\n\nOffice Hours (Section B)\nBy appointment"
+    "text": "2 Instructor Information\n\n\n\n\nSection A\nSection B\n\n\n\n\nInstructor\nEric Murray\nAndrew J. Steinmetz\n\n\nEmail\neric.murray@physics.gatech.edu\najsteinmetz@gatech.edu\n\n\nPHYS 4321 (Advanced Lab I) CRN\n#86964/80429\n#90814/90815\n\n\nPHYS 4322 (Advanced Lab II) CRN\n#90887/90888\n#93413/93414\n\n\nOffice\nBoggs B-85\nHowey W204"
   },
   {
     "objectID": "course-files/syllabus.html#course-materials",
@@ -123,84 +123,98 @@
     "href": "course-files/syllabus.html#grading-policy",
     "title": "Syllabus",
     "section": "4 Grading Policy",
-    "text": "4 Grading Policy\nEach lab report is worth 25% of the final grade, for a total of four lab reports. There are no exams. See the list of available experiments.\n\n4.1 Description of Graded Components\nLab reports are scored as follows:\n\n\n\nComponent\nPoints\n\n\n\n\nPerformance of experiment and quality of data\n50\n\n\nAnalysis and presentation of experiment\n30\n\n\nOther elements (including logbook keeping and late penalties)\n20\n\n\nTotal\n100\n\n\n\nScores are assigned to lab reports. That is, if you perform the experiment and keep a good notebook but do not submit a report, you will earn zero, not 70. Late penalties may result in an “other” score less than zero.\n\n\n\n4.2 Grading Scale\n\n\n\nLetter Grade\nPercentage\n\n\n\n\nA\n90–100%\n\n\nB\n80–89%\n\n\nC\n70–79%\n\n\nD\n60–69%\n\n\nF\n0–59%\n\n\n\nGeorgia Tech grading system"
+    "text": "4 Grading Policy\nEach lab report is worth 25% of the final grade, for a total of four lab reports. There are no exams. See the list of available experiments.\n\n4.1 Report Due Dates\nEach report is due at the beginning of class on the day the next lab begins. Report 4 is due at your section’s last meeting.\n\n\n\nReport\nSection A\nSection B\n\n\n\n\nReport 1\nSept. 23\nSept. 24\n\n\nReport 2\nOct. 21\nOct. 22\n\n\nReport 3\nNov. 11\nNov. 12\n\n\nReport 4\nDec. 7\nDec. 8\n\n\n\nThe full Section B schedule is on the course home page.\n\n\n4.2 Description of Graded Components\nLab reports are scored as follows:\n\n\n\nComponent\nPoints\n\n\n\n\nPerformance of experiment and quality of data\n50\n\n\nAnalysis and presentation of experiment\n30\n\n\nOther elements (including logbook keeping and late penalties)\n20\n\n\nTotal\n100\n\n\n\nScores are assigned to lab reports. That is, if you perform the experiment and keep a good notebook but do not submit a report, you will earn zero, not 70. Late penalties may result in an “other” score less than zero.\n\n\n4.3 Grading Scale\n\n\n\nLetter Grade\nPercentage\n\n\n\n\nA\n90–100%\n\n\nB\n80–89%\n\n\nC\n70–79%\n\n\nD\n60–69%\n\n\nF\n0–59%\n\n\n\nGeorgia Tech grading system"
   },
   {
     "objectID": "course-files/syllabus.html#course-and-institution-policies",
     "href": "course-files/syllabus.html#course-and-institution-policies",
     "title": "Syllabus",
     "section": "5 Course and Institution Policies",
-    "text": "5 Course and Institution Policies\n\n5.1 Attendance and Participation\nYou must be present for the first day of each experiment; contact your instructor if you will be unable to attend.\nOn subsequent days, you need attend only if you will be collecting data, although you are always welcome to attend. You should arrive in the first half-hour of the class meeting. If there are no students present after that, the instructors will lock the lab room and leave.\nYou may not use any data that you did not participate in collecting during the current semester.\n\n5.1.1 Late Work\nLab reports are due at the beginning of class. Late work is penalized; the penalty rate is TBD.\n\n\n\n\n5.2 Limited Generative AI Use Permitted\n\nUse of generative AI, such as Copilot, ChatGPT, Claude, Gemini, and similar tools, is permitted in this course, but only within instructor-approved boundaries. Examples may include stages of writing, revising work, providing feedback, grammar refinement, or coding assistance.\nGeorgia Tech OIT guidance on AI\nAI usage must be transparent and documented in an AI Usage Statement with each submission where it is used. See the AI Usage Statement page.\n\n\n5.3 Academic Integrity\nGeorgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards.\nIn particular, each student must turn in their own original lab report, based on data they participated in collecting in the current semester. Although you work in pairs, your laboratory reports are written individually (including text, tables, and figures). The protocol is to take data together, share your research and external resources, and discuss the experiment and results, as you would do in a research team, but write reports separately.\nAny student suspected of cheating or plagiarism on a report will be reported to the Office of Student Integrity, who will investigate the incident and identify the appropriate penalty for violations.\nGeorgia Tech Academic Honor Code\n\n\n5.4 Accommodations for Students with Disabilities\nIf you are a student with learning needs that require accommodation, contact the Office of Disability Services, often referred to as ADAPTS, at (404) 894-2563 or through the Office of Disability Services website as soon as possible to make an appointment to discuss your needs and to obtain an accommodations letter. Please also email your instructor to make an appointment for discussing your accommodation.\nGeorgia Tech Office of Disability Services\n\n\n5.5 Student-Faculty Expectations\nIt is important to strive for an atmosphere of mutual respect, acknowledgment, and responsibility between faculty members and the student body at Georgia Tech. The Student-Faculty Expectations articulate some basic expectations.\nGeorgia Tech student-faculty expectations"
+    "text": "5 Course and Institution Policies\n\n5.1 Attendance and Participation\nYou must be present for the first day of each experiment; contact your instructor if you will be unable to attend.\nOn subsequent days, you need attend only if you will be collecting data, although you are always welcome to attend. You should arrive in the first half-hour of the class meeting. If there are no students present after that, the instructors will lock the lab room and leave.\nYou may not use any data that you did not participate in collecting during the current semester.\n\n5.1.1 Late Work\nLab reports are due at the beginning of class. Late work is penalized based on tardiness.\n\n\n\n5.2 Generative AI Use and Disclosure\nGenerative AI tools, such as ChatGPT, Claude, Gemini, and Copilot, are permitted in this course under a policy adapted from the American Physical Society (APS) journals. You are fully responsible for everything in your report, and you must check all AI output you use. Light editing (spelling, grammar, trimming wording) needs no disclosure. Any substantive use, such as analysis code, calculations, figures, literature search, or feedback on drafts, must be disclosed inside the report in an AI Disclosure Statement. AI may not generate or alter data, write your report, or supply sources you have not read. See the AI Disclosure Statement page for what to disclose, where, and examples.\nGeorgia Tech OIT guidance on AI\n\n\n5.3 Academic Integrity\nGeorgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards.\nIn particular, each student must turn in their own original lab report, based on data they participated in collecting in the current semester. Although you work in pairs, your laboratory reports are written individually (including text, tables, and figures). The protocol is to take data together, share your research and external resources, and discuss the experiment and results, as you would do in a research team, but write reports separately.\nAny student suspected of cheating or plagiarism on a report will be reported to the Office of Student Integrity, who will investigate the incident and identify the appropriate penalty for violations.\nGeorgia Tech Academic Honor Code\n\n\n5.4 Accommodations for Students with Disabilities\nIf you are a student with learning needs that require accommodation, contact the Office of Disability Services, often referred to as ADAPTS, at (404) 894-2563 or through the Office of Disability Services website as soon as possible to make an appointment to discuss your needs and to obtain an accommodations letter. Please also email your instructor to make an appointment for discussing your accommodation.\nGeorgia Tech Office of Disability Services\n\n\n5.5 Student-Faculty Expectations\nIt is important to strive for an atmosphere of mutual respect, acknowledgment, and responsibility between faculty members and the student body at Georgia Tech. The Student-Faculty Expectations articulate some basic expectations."
   },
   {
-    "objectID": "course-files/ai-usage-statement.html",
-    "href": "course-files/ai-usage-statement.html",
-    "title": "How to Format an AI Usage Statement",
+    "objectID": "course-files/ai-disclosure-statement.html",
+    "href": "course-files/ai-disclosure-statement.html",
+    "title": "How to Write an AI Disclosure Statement",
     "section": "",
-    "text": "Limited use of generative AI tools, such as Copilot, ChatGPT, Claude, Gemini, and similar systems, is permitted in PHYS 4321/4322 only within instructor-approved boundaries. Examples of potentially appropriate use may include brainstorming, revising wording, receiving feedback, grammar refinement, or other support tasks connected to the writing process.\nWhen generative AI is used in preparing an assignment submission, students must include an AI Usage Statement with that assignment. The statement documents what tool was used, what was asked of it, what it produced, and how the student incorporated or revised that output.\n\n\n\n\n\n\nNote\n\n\n\nAI use is entirely optional. You are never required use generative AI in this course.\n\n\nOveruse of such tools is discouraged as there is growing evidence that reliance on AI can decrease one’s expertise and skills:\n\n“The ADR of standard colonoscopy decreased significantly from 28.4% (226 of 795) before to 22.4% (145 of 648) after exposure to AI, corresponding with an absolute difference of -6.0% (95% CI -10.5 to -1.6; p=0.0089). […] Continuous exposure to AI might reduce the ADR of standard non-AI assisted colonoscopy, suggesting a negative effect on endoscopist behaviour.” (Budzyń et al. 2025)\n\n\n\n\n\n\n\nImportant\n\n\n\nAI should never be used to generate a whole assignment from scratch. The final submission must reflect your own thinking, judgment, and revisions."
+    "text": "Physicists who publish in the Physical Review journals follow the American Physical Society (APS) policy on AI tools (American Physical Society, n.d., 2026). Your lab reports follow the same policy, adapted for a course. The idea is simple: you may use AI tools, you must say how, and you are responsible for everything in your report.\nThis page covers generative AI tools such as ChatGPT, Claude, Gemini, Copilot, and similar systems, including AI features built into editors and coding environments.\n\n\n\n\n\n\nNote\n\n\n\nAI use is entirely optional. You are never required to use generative AI in this course.\n\n\nRelying on AI is not free. There is growing evidence that it can erode the skills it replaces:\n\n“The ADR of standard colonoscopy decreased significantly from 28.4% (226 of 795) before to 22.4% (145 of 648) after exposure to AI, corresponding with an absolute difference of -6.0% (95% CI -10.5 to -1.6; p=0.0089). […] Continuous exposure to AI might reduce the ADR of standard non-AI assisted colonoscopy, suggesting a negative effect on endoscopist behaviour.” (Budzyń et al. 2025)\n\nWriting a report, fitting your own data, and propagating your own uncertainties are the skills this course exists to build. Use AI in ways that leave you better at them, not worse."
   },
   {
-    "objectID": "course-files/ai-usage-statement.html#overview",
-    "href": "course-files/ai-usage-statement.html#overview",
-    "title": "How to Format an AI Usage Statement",
+    "objectID": "course-files/ai-disclosure-statement.html#overview",
+    "href": "course-files/ai-disclosure-statement.html#overview",
+    "title": "How to Write an AI Disclosure Statement",
     "section": "",
-    "text": "Limited use of generative AI tools, such as Copilot, ChatGPT, Claude, Gemini, and similar systems, is permitted in PHYS 4321/4322 only within instructor-approved boundaries. Examples of potentially appropriate use may include brainstorming, revising wording, receiving feedback, grammar refinement, or other support tasks connected to the writing process.\nWhen generative AI is used in preparing an assignment submission, students must include an AI Usage Statement with that assignment. The statement documents what tool was used, what was asked of it, what it produced, and how the student incorporated or revised that output.\n\n\n\n\n\n\nNote\n\n\n\nAI use is entirely optional. You are never required use generative AI in this course.\n\n\nOveruse of such tools is discouraged as there is growing evidence that reliance on AI can decrease one’s expertise and skills:\n\n“The ADR of standard colonoscopy decreased significantly from 28.4% (226 of 795) before to 22.4% (145 of 648) after exposure to AI, corresponding with an absolute difference of -6.0% (95% CI -10.5 to -1.6; p=0.0089). […] Continuous exposure to AI might reduce the ADR of standard non-AI assisted colonoscopy, suggesting a negative effect on endoscopist behaviour.” (Budzyń et al. 2025)\n\n\n\n\n\n\n\nImportant\n\n\n\nAI should never be used to generate a whole assignment from scratch. The final submission must reflect your own thinking, judgment, and revisions."
+    "text": "Physicists who publish in the Physical Review journals follow the American Physical Society (APS) policy on AI tools (American Physical Society, n.d., 2026). Your lab reports follow the same policy, adapted for a course. The idea is simple: you may use AI tools, you must say how, and you are responsible for everything in your report.\nThis page covers generative AI tools such as ChatGPT, Claude, Gemini, Copilot, and similar systems, including AI features built into editors and coding environments.\n\n\n\n\n\n\nNote\n\n\n\nAI use is entirely optional. You are never required to use generative AI in this course.\n\n\nRelying on AI is not free. There is growing evidence that it can erode the skills it replaces:\n\n“The ADR of standard colonoscopy decreased significantly from 28.4% (226 of 795) before to 22.4% (145 of 648) after exposure to AI, corresponding with an absolute difference of -6.0% (95% CI -10.5 to -1.6; p=0.0089). […] Continuous exposure to AI might reduce the ADR of standard non-AI assisted colonoscopy, suggesting a negative effect on endoscopist behaviour.” (Budzyń et al. 2025)\n\nWriting a report, fitting your own data, and propagating your own uncertainties are the skills this course exists to build. Use AI in ways that leave you better at them, not worse."
   },
   {
-    "objectID": "course-files/ai-usage-statement.html#when-is-an-ai-usage-statement-required",
-    "href": "course-files/ai-usage-statement.html#when-is-an-ai-usage-statement-required",
-    "title": "How to Format an AI Usage Statement",
-    "section": "2 When Is an AI Usage Statement Required?",
-    "text": "2 When Is an AI Usage Statement Required?\nInclude an AI Usage Statement with any course submission in which you used generative AI in a meaningful way. This includes, but is not limited to:\n\nGenerating ideas, outlines, or possible approaches.\nReceiving feedback on a draft.\nRevising wording, organization, or clarity.\nUsing AI for grammar refinement or editing suggestions.\nUsing AI for coding, LaTeX, or formatting assistance connected to the assignment.\n\nIf you did not use generative AI for an assignment, no AI Usage Statement is required."
+    "objectID": "course-files/ai-disclosure-statement.html#the-principles",
+    "href": "course-files/ai-disclosure-statement.html#the-principles",
+    "title": "How to Write an AI Disclosure Statement",
+    "section": "2 The Principles",
+    "text": "2 The Principles\nThese follow the APS policy for authors.\n\nYou are accountable. An AI program cannot be held accountable, so it cannot be an author. You are responsible for the accuracy of every sentence, number, equation, figure, and reference in your report, whether or not AI helped produce it.\nCheck everything. Review and correct all AI output before it goes into your report. AI tools confidently produce wrong derivations, wrong code, and references that do not exist.\nDisclose substantive use. If AI shaped the science or the content of your report, say so in the report.\nKeep a record. Note your AI use as you go, the same way you record your procedure in your lab notebook. Save chat links or transcripts until your report is graded. I may ask to see them."
   },
   {
-    "objectID": "course-files/ai-usage-statement.html#required-components-of-the-ai-usage-statement",
-    "href": "course-files/ai-usage-statement.html#required-components-of-the-ai-usage-statement",
-    "title": "How to Format an AI Usage Statement",
-    "section": "3 Required Components of the AI Usage Statement",
-    "text": "3 Required Components of the AI Usage Statement\nEach AI Usage Statement should include the following four elements:\n\n\n\n\n\n\n\nRequired Item\nWhat to Include\n\n\n\n\n1. Tool used and date of access\nName the AI tool and indicate when you used it.\n\n\n2. Input prompt\nProvide the prompt or instruction you entered into the tool.\n\n\n3. Output received\nInclude a copy of the AI-generated output relevant to your assignment.\n\n\n4. How you used or edited it\nBriefly explain whether you adopted, rejected, revised, summarized, or otherwise used the output."
+    "objectID": "course-files/ai-disclosure-statement.html#when-must-i-disclose",
+    "href": "course-files/ai-disclosure-statement.html#when-must-i-disclose",
+    "title": "How to Write an AI Disclosure Statement",
+    "section": "3 When Must I Disclose?",
+    "text": "3 When Must I Disclose?\nAPS draws the line between light editing and substantive use. We use the same line.\nNo disclosure needed: using AI to polish, condense, or lightly edit text you wrote. This means spelling, grammar, punctuation, word choice, and trimming a sentence that runs long. The meaning, the claims, and the structure stay yours. If the AI rewrote a paragraph into something you would not have written, that is no longer light editing.\nDisclosure required: any use that affects the content or the results. For a lab report, that includes:\n\nWriting or debugging code that produces your fits, numbers, or plots\nPerforming or checking derivations, calculations, or uncertainty propagation\nGenerating or restyling figures, schematics, or diagrams\nFinding, summarizing, or synthesizing literature for your Introduction or Theory\nInterpreting your results or suggesting explanations for a discrepancy\nDrafting or restructuring text (see What Is Not Permitted for the limits)\nTranslating text from another language\n\n\n\n\n\n\n\nTipWhen in doubt, disclose\n\n\n\nA disclosure costs you one sentence. An undisclosed use costs you much more."
   },
   {
-    "objectID": "course-files/ai-usage-statement.html#what-if-i-used-ai-iteratively",
-    "href": "course-files/ai-usage-statement.html#what-if-i-used-ai-iteratively",
-    "title": "How to Format an AI Usage Statement",
-    "section": "4 What If I Used AI Iteratively?",
-    "text": "4 What If I Used AI Iteratively?\nGenerative AI use is often conversational and iterative. You are not expected to include every single prompt and every output from a long exchange. Instead, include no more than three of the most consequential or important conversational snippets. Select the examples that best show how AI affected your work.\nFor example, you might include:\n\nA prompt used to generate initial brainstorming ideas.\nA prompt asking for feedback on a draft paragraph.\nA prompt used to improve clarity or organization in a final revision."
+    "objectID": "course-files/ai-disclosure-statement.html#where-does-the-disclosure-go",
+    "href": "course-files/ai-disclosure-statement.html#where-does-the-disclosure-go",
+    "title": "How to Write an AI Disclosure Statement",
+    "section": "4 Where Does the Disclosure Go?",
+    "text": "4 Where Does the Disclosure Go?\nThe disclosure goes inside your report, in the section closest to where the AI was used, as APS requires. It is not a separate document.\n\n\n\n\n\n\n\nWhat AI did\nWhere you disclose it\n\n\n\n\nGenerated or restyled a figure\nThat figure’s caption\n\n\nWrote or debugged analysis code; did or checked calculations, fits, or uncertainty propagation\nExperimental methods or Data and analysis\n\n\nLiterature search, summaries, drafting help, feedback on organization, translation\nAcknowledgments\n\n\n\nLab reports do not usually have an Acknowledgments section. If you need one, add a short Acknowledgments section after the Conclusion and before the References.\nIf you used AI in several places, disclose each use where it belongs. You may also collect everything in a single AI Disclosure paragraph in the Acknowledgments, as long as each figure made with AI still says so in its caption."
   },
   {
-    "objectID": "course-files/ai-usage-statement.html#suggested-format",
-    "href": "course-files/ai-usage-statement.html#suggested-format",
-    "title": "How to Format an AI Usage Statement",
-    "section": "5 Suggested Format",
-    "text": "5 Suggested Format\nYou may upload the AI Usage Statement as a separate document which accompanies your main submission.\n\n5.1 AI Usage Statement Template\nName, course, and assignment.\nAI Tool: [Tool name]\nDate of Access: [Date]\nPrompt 1:\n\n[Paste the prompt you entered.]\n\nOutput 1:\n\n[Paste the relevant AI-generated output.]\n\nHow I Used or Edited This Output:\n\n[Briefly explain how the output informed your work, what you changed, and what you did not use.]"
+    "objectID": "course-files/ai-disclosure-statement.html#what-goes-in-the-disclosure",
+    "href": "course-files/ai-disclosure-statement.html#what-goes-in-the-disclosure",
+    "title": "How to Write an AI Disclosure Statement",
+    "section": "5 What Goes in the Disclosure?",
+    "text": "5 What Goes in the Disclosure?\nEvery disclosure answers four questions, the same four APS asks:\n\n\n\n\n\n\n\nRequired item\nWhat to include\n\n\n\n\n1. Tool and version\nThe tool’s name and version or model, e.g. “ChatGPT (GPT-5)”, “Claude Sonnet 5”, “GitHub Copilot in VS Code”.\n\n\n2. How it assisted\nWhat the AI did: wrote a fitting function, checked a derivation, suggested a figure layout.\n\n\n3. How you directed it\nWhat you asked it to do, and what you gave it (your code, your equations, your draft). A one-line summary of your prompt is enough.\n\n\n4. How you verified the output\nHow you know the result is right: compared to a hand calculation, tested the code on simulated data with known parameters, checked each reference in the library.\n\n\n\nItem 4 is the one that matters most. “I read it over” is not verification."
   },
   {
-    "objectID": "course-files/ai-usage-statement.html#what-is-not-appropriate",
-    "href": "course-files/ai-usage-statement.html#what-is-not-appropriate",
-    "title": "How to Format an AI Usage Statement",
-    "section": "6 What Is Not Appropriate?",
-    "text": "6 What Is Not Appropriate?\nThe following are not consistent with course policy:\n\nSubmitting an assignment that was generated substantially or entirely by AI.\nUsing AI to invent experiences, qualifications, accomplishments, or participation records.\nUsing AI in a way that is prohibited by assignment-specific instructions.\nUsing AI but failing to disclose that use when a statement is required.\n\n\n\n\n\n\n\nTipWhen in doubt\n\n\n\nAsk the instructor before using generative AI for a course assignment."
+    "objectID": "course-files/ai-disclosure-statement.html#examples",
+    "href": "course-files/ai-disclosure-statement.html#examples",
+    "title": "How to Write an AI Disclosure Statement",
+    "section": "6 Examples",
+    "text": "6 Examples\nFigure caption:\n\nFig. 3. Normalized counting rate versus absorber thickness for Al and Pb, with weighted exponential fits. The plotting script was drafted with Claude Sonnet 5 from a description of the desired layout; I checked the plotted points against the data table and the fit curves against the parameters in Table 2.\n\nData and analysis:\n\nThe nonlinear least-squares fit to Eq. (4) used scipy.optimize.curve_fit. GitHub Copilot (VS Code, September 2026) suggested the fitting function and the conversion of the covariance matrix to parameter uncertainties. I verified the code by fitting 1000 simulated data sets generated with known parameters and confirming that the recovered values and uncertainties agreed with the inputs.\n\nAcknowledgments:\n\nI thank my lab partner, J. Doe, for help collecting the data. AI disclosure: I used ChatGPT (GPT-5) to find review articles on the Zeeman effect; I read the two sources I cite [3, 4] myself and did not cite anything I had not read. I also asked it for feedback on the organization of my Discussion, which led me to move the systematic-error analysis ahead of the comparison with the accepted value. All text is my own.\n\nNo substantive use: you do not need a statement. If you want to be explicit, one line in the Acknowledgments is fine: “No generative AI tools were used beyond spelling and grammar checking.”"
   },
   {
-    "objectID": "course-files/ai-usage-statement.html#why-this-matters",
-    "href": "course-files/ai-usage-statement.html#why-this-matters",
-    "title": "How to Format an AI Usage Statement",
-    "section": "7 Why This Matters",
-    "text": "7 Why This Matters\nThe AI Usage Statement is not intended to discourage legitimate use of useful tools. Its purpose is to make the writing process transparent and to ensure that submitted work remains your own.\nFailure to follow the course AI policy, including using generative AI when it is not permitted or failing to disclose its use, may be considered a violation of Georgia Tech’s academic integrity policies."
+    "objectID": "course-files/ai-disclosure-statement.html#what-is-not-permitted",
+    "href": "course-files/ai-disclosure-statement.html#what-is-not-permitted",
+    "title": "How to Write an AI Disclosure Statement",
+    "section": "7 What Is Not Permitted",
+    "text": "7 What Is Not Permitted\nAPS now allows authors to use AI substantively, with disclosure. A course is not a journal: your report is how I assess your understanding. The following are not permitted, disclosed or not:\n\nGenerating, altering, or “filling in” data. Every data point must come from measurements you and your partner took in the lab this semester.\nHaving AI write your report or its sections. Your Abstract, Discussion, and Conclusion must be written by you. AI may give feedback on your draft; it may not produce the draft.\nCiting sources you have not read. AI tools invent references. Every citation must point to a real source that you have looked at and that says what you claim it says.\nPresenting AI-generated images as real. A schematic of your apparatus may be AI-assisted and disclosed; it may never be passed off as a photograph.\nSharing another student’s work with an AI tool. This includes your lab partner’s report and any report you peer review.\nUsing AI where an assignment or the instructor says not to.\nUsing AI substantively without disclosing it.\n\n\n\n\n\n\n\nImportant\n\n\n\nUndisclosed substantive AI use, or any of the uses above, may be treated as a violation of Georgia Tech’s academic integrity policies. The rules on plagiarism in the syllabus apply to AI output exactly as they apply to any other source."
   },
   {
-    "objectID": "course-files/ai-usage-statement.html#references",
-    "href": "course-files/ai-usage-statement.html#references",
-    "title": "How to Format an AI Usage Statement",
-    "section": "8 References",
-    "text": "8 References\n\n\nBudzyń, K. et al. 2025. “Endoscopist Deskilling Risk After Exposure to Artificial Intelligence in Colonoscopy: A Multicentre, Observational Study.” Lancet Gastroenterology & Hepatology 10 (10): 896–903. https://doi.org/10.1016/S2468-1253(25)00133-5."
+    "objectID": "course-files/ai-disclosure-statement.html#submission-checklist",
+    "href": "course-files/ai-disclosure-statement.html#submission-checklist",
+    "title": "How to Write an AI Disclosure Statement",
+    "section": "8 Submission Checklist",
+    "text": "8 Submission Checklist\n\nI am responsible for everything in my report and have checked all AI output I used.\nEach substantive AI use is disclosed in the right place (caption, Methods/Data and analysis, or Acknowledgments).\nEach disclosure names the tool and version, how it assisted, how I directed it, and how I verified the output.\nEvery data point in my report is my own measurement, and I have read every source I cite.\nI have saved my AI chat links or transcripts in case the instructor asks to see them."
+  },
+  {
+    "objectID": "course-files/ai-disclosure-statement.html#why-this-matters",
+    "href": "course-files/ai-disclosure-statement.html#why-this-matters",
+    "title": "How to Write an AI Disclosure Statement",
+    "section": "9 Why This Matters",
+    "text": "9 Why This Matters\nThis policy is not meant to discourage legitimate use of useful tools. Working physicists use them, and the APS policy acknowledges that. It is meant to keep your reports honest about how they were made, and to make sure the physics in them is yours. Writing a disclosure now is practice for doing it in your first paper.\n\n\n\n\n\n\nTipQuestions?\n\n\n\nIf you are not sure whether a use is allowed or needs disclosing, ask me before you submit."
+  },
+  {
+    "objectID": "course-files/ai-disclosure-statement.html#references",
+    "href": "course-files/ai-disclosure-statement.html#references",
+    "title": "How to Write an AI Disclosure Statement",
+    "section": "10 References",
+    "text": "10 References\n\n\nAmerican Physical Society. 2026. “American Physical Society Releases Updated AI Policy for Journals.” June 17. https://www.aps.org/about/news/2026/06/releases-updated-ai-policy-journals.\n\n\nAmerican Physical Society. n.d. “Appropriate Use of AI-Based Writing Tools.” Accessed September 23, 2026. https://journals.aps.org/authors/ai-based-writing-tools.\n\n\nBudzyń, K. et al. 2025. “Endoscopist Deskilling Risk After Exposure to Artificial Intelligence in Colonoscopy: A Multicentre, Observational Study.” Lancet Gastroenterology & Hepatology 10 (10): 896–903. https://doi.org/10.1016/S2468-1253(25)00133-5."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome Page",
     "section": "",
-    "text": "Fall 2026 | PHYS 4321 (Advanced Lab I) CRN #90814/90815 | PHYS 4322 (Advanced Lab II) CRN #93413/93414 | 3 credit hours\nTuesdays and Thursdays, 3:30–6:15 PM ET · Boggs 1-11 · Section B"
+    "text": "Fall 2026 | CRN #90814/90815 (I) | CRN #93413/93414 (II) | Section B | 3 credit hours\nTuesdays and Thursdays, 3:30–6:15 PM ET · Boggs 1-11"
   },
   {
     "objectID": "index.html#welcome",
@@ -214,14 +228,14 @@
     "href": "index.html#course-description",
     "title": "Welcome Page",
     "section": "2 Course Description",
-    "text": "2 Course Description\nExperiments are conducted that demonstrate basic principles from various fields of physics. An emphasis is placed on contemporary concepts in modern physics.\n\n2.1 Learning Outcomes\n\nWrite a clear, succinct, and precise lab report, with conclusions that are supported by your data and analysis."
+    "text": "2 Course Description\nExperiments are conducted that demonstrate basic principles from various fields of physics. An emphasis is placed on contemporary concepts in modern physics.\n\n2.1 Learning Outcomes\nWrite a clear, succinct, and precise lab report, with conclusions that are supported by your data and analysis."
   },
   {
     "objectID": "index.html#instructor-information",
     "href": "index.html#instructor-information",
     "title": "Welcome Page",
     "section": "3 Instructor Information",
-    "text": "3 Instructor Information\n\n\n\nSection A (Mon./Wed.)\nEric Murray · eric.murray@physics.gatech.edu\n\n\nSection B (Tue./Thu.)\nAndrew J. Steinmetz · ajsteinmetz@gatech.edu\n\n\nOffice (Section B)\nHowey W204\n\n\nOffice Hours (Section B)\nBy appointment"
+    "text": "3 Instructor Information\n\n\n\nInstructor (Section B)\nAndrew J. Steinmetz\n\n\nEmail\najsteinmetz@gatech.edu\n\n\nOffice\nHowey W204\n\n\nOffice Hours\nBy appointment"
   },
   {
     "objectID": "index.html#course-schedule",
@@ -235,7 +249,7 @@
     "href": "index.html#experiments-and-grading",
     "title": "Welcome Page",
     "section": "5 Experiments and Grading",
-    "text": "5 Experiments and Grading\nThere are no exams in this course. Your grade is based on four lab reports, each worth 25% of the course grade. Choose your experiments from the list of available experiments.\nEach lab report is scored as follows:\n\n\n\nComponent\nPoints\n\n\n\n\nPerformance of experiment and quality of data\n50\n\n\nAnalysis and presentation of experiment\n30\n\n\nOther elements (including logbook keeping and late penalties)\n20\n\n\nTotal\n100\n\n\n\nScores are assigned to lab reports. If you perform the experiment and keep a good notebook but do not submit a report, you will earn zero, not 70. Reports are due at the beginning of class, and late work is penalized. Late penalties may result in an “other” score less than zero."
+    "text": "5 Experiments and Grading\nThere are no exams in this course. Your grade is based on four lab reports, each worth 25% of the course grade. Choose your experiments from the list of available experiments.\nEach lab report is scored as follows:\n\n\n\n\n\n\n\nComponent\nPoints\n\n\n\n\nPerformance of experiment and quality of data\n50\n\n\nAnalysis and presentation of experiment\n30\n\n\nOther elements (including logbook keeping and late penalties)\n20\n\n\nTotal\n100\n\n\n\nScores are assigned to lab reports. If you perform the experiment and keep a good notebook but do not submit a report, you will earn zero, not 70. Reports are due at the beginning of class, and late work is penalized based on tardiness."
   },
   {
     "objectID": "index.html#important-links-and-resources",
@@ -249,21 +263,21 @@
     "href": "index.html#a-few-important-course-notes",
     "title": "Welcome Page",
     "section": "7 A Few Important Course Notes",
-    "text": "7 A Few Important Course Notes\n\nAttend the first day of each experiment. Contact your instructor if you will be unable to attend.\nAfter the first day, attend only when collecting data. You are always welcome to attend. Arrive in the first half-hour of the class meeting; if no students are present after that, the instructors will lock the lab room and leave.\nUse only data you helped collect. You may not use any data that you did not participate in collecting during the current semester.\nYou work in pairs, but you write alone. Take data together, share your research and external resources, and discuss the experiment and results as you would in a research team, but write your report separately, including text, tables, and figures.\nNo textbook is required. Lab manuals are available in Canvas."
+    "text": "7 A Few Important Course Notes\n\nAttend the first day of each experiment. Contact your instructor if you will be unable to attend.\nAfter the first day, attend only when collecting data. You are always welcome to attend. Arrive in the first half-hour of the class meeting; if no students are present after that, the instructors will lock the lab room and leave.\nUse only data you helped collect. You may not use any data that you did not participate in collecting during the current semester.\nYou work in pairs, or small groups, but you write alone. Take data together, share your research and external resources, and discuss the experiment and results as you would in a research team, but write your report separately, including text, tables, and figures.\nNo textbook is required. Lab manuals are available in Canvas."
   },
   {
     "objectID": "index.html#copyright",
     "href": "index.html#copyright",
     "title": "Welcome Page",
     "section": "8 Copyright",
-    "text": "8 Copyright\n© 2026 Andrew J. Steinmetz. Course materials are licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt this material for any purpose, provided you give appropriate credit to the original author and indicate if changes were made.\n\n8.1 AI Disclosure\nSome course materials were developed with assistance from generative AI tools, including Claude (Anthropic), Copilot (Microsoft), ChatGPT (OpenAI), and Gemini (Google). All AI-generated content was reviewed, edited, and approved by the instructor before use."
+    "text": "8 Copyright\n© 2026 Andrew J. Steinmetz. Course materials are licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt this material for any purpose, provided you give appropriate credit to the original author and indicate if changes were made.\n\n8.1 AI Disclosure\nSome course materials were developed with assistance from generative AI tools, including Claude Sonnet 5 and Opus 5/5.5 (Anthropic). All AI-generated content was reviewed, edited, and approved by the instructor before use."
   },
   {
     "objectID": "lectures/index.html",
     "href": "lectures/index.html",
     "title": "Lectures",
     "section": "",
-    "text": "Fall 2026\n\n\n\n#\nDate\nTopic\nSlides\n\n\n\n\n1\nTBD\nLab Guidelines\nOpen slides\n\n\n2\nTBD\nWriting a Lab Report\nOpen slides"
+    "text": "Fall 2026\n\n\n\n#\nDate\nTopic\nSlides\n\n\n\n\n1\nAug. 25\nLab Guidelines\nOpen slides\n\n\n2\nSept. 15\nWriting a Lab Report\nOpen slides"
   },
   {
     "objectID": "lectures/lab-report.html#who-you-are-writing-for",
