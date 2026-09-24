@@ -3,7 +3,7 @@ title: "Welcome Page"
 subtitle: "PHYS 4321/4322: Advanced Laboratory I/II"
 ---
 
-**Fall 2026 \| CRN #90814/90815 (I) \| CRN #93413/93414 (II) \| Section B \| 3 credit hours**
+**Fall 2026 \| Section B \| 3 credit hours**
 
 **Tuesdays and Thursdays, 3:30–6:15 PM ET · Boggs 1-11**
 
@@ -32,7 +32,7 @@ Write a clear, succinct, and precise lab report, with conclusions that are suppo
 | **Office** | Howey W204 |
 | **Office Hours** | [By appointment](https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous&ismsaljsauthenabled&ep=plink) |
 
-## Course Schedule
+## Course Schedule (Section B)
 
 Section B meets every Tuesday and Thursday except holidays, from **August 25 through December 8**. Each experiment follows the same cycle: about three weeks in the lab collecting data, then about two weeks of writing. A report is due at the beginning of class on the day the next lab begins. The schedule below may be adjusted as needed throughout the semester.
 

@@ -87,7 +87,7 @@ Lab reports are due at the beginning of class. Late work is penalized based on t
 
 ### Generative AI Use and Disclosure
 
-Generative AI tools, such as ChatGPT, Claude, Gemini, and Copilot, are permitted in this course under a policy adapted from the American Physical Society (APS) journals. You are fully responsible for everything in your report, and you must check all AI output you use. Light editing (spelling, grammar, trimming wording) needs no disclosure. Any substantive use, such as analysis code, calculations, figures, literature search, or feedback on drafts, must be disclosed inside the report in an **AI Disclosure Statement**. AI may not generate or alter data, write your report, or supply sources you have not read. See the [AI Disclosure Statement](ai-disclosure-statement.qmd) page for what to disclose, where, and examples.
+Generative AI tools, such as ChatGPT, Claude, Gemini, and Copilot, are permitted in this course under a policy adapted from the American Physical Society (APS) journals. You are fully responsible for everything in your report, and you must check all AI output you use. Light editing (spelling, grammar, trimming wording) needs no disclosure. Any substantive use, such as analysis code, calculations, figures, literature search, or feedback on drafts, must be disclosed inside the report in an **AI Disclosure Statement**. AI may not generate or alter data, write your report, or supply sources you have not read.
 
 [Georgia Tech OIT guidance on AI](https://oit.gatech.edu/ai/guidance)
 
