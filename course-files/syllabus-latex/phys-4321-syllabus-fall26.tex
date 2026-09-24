@@ -1,0 +1,222 @@
+\documentclass[11pt]{article}
+
+\usepackage[margin=1.0in]{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{longtable}
+\usepackage{enumitem}
+\usepackage[table]{xcolor}
+\usepackage{microtype}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{ragged2e}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=blue,
+    pdftitle={PHYS 4321/4322 Syllabus},
+    pdfauthor={Andrew J. Steinmetz},
+    pdfsubject={PHYS 4321/4322 Advanced Laboratory I/II syllabus}
+}
+
+\setlength{\headheight}{14pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.35em}
+\setlist[itemize]{leftmargin=2em, itemsep=0.15em, topsep=0.25em}
+\setlist[enumerate]{leftmargin=2em, itemsep=0.15em, topsep=0.25em}
+
+\definecolor{GTGold}{HTML}{B3A369}
+\definecolor{GTNavy}{HTML}{003057}
+\definecolor{GTLightGold}{HTML}{F9F6E5} % Diploma
+\definecolor{GTGray}{HTML}{54585A}      % Gray Matter
+\definecolor{GTLightGray}{HTML}{D6DBD4} % Pi Mile
+
+\titleformat{\section}
+  {\large\bfseries\color{GTNavy}}
+  {}{0pt}{}
+  [\vspace{0.45em}\color{GTGold}\titlerule]
+
+\titleformat{\subsection}
+  {\normalsize\bfseries\color{GTNavy}}
+  {}{0pt}{}
+
+\titleformat{\subsubsection}
+  {\normalsize\bfseries\color{GTNavy}}
+  {}{0pt}{}
+
+\titlespacing*{\section}{0pt}{1.2em}{0.6em}
+\titlespacing*{\subsection}{0pt}{0.9em}{0.35em}
+\titlespacing*{\subsubsection}{0pt}{0.8em}{0.3em}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textcolor{black}{PHYS 4321/4322}}
+\fancyhead[R]{\textcolor{black}{Advanced Laboratory I/II}}
+\fancyfoot[L]{\textcolor{black}{Georgia Institute of Technology}}
+\fancyfoot[R]{\textcolor{black}{\thepage}}
+\renewcommand{\headrulewidth}{0.2pt}
+\renewcommand{\footrulewidth}{0.2pt}
+
+\newcommand{\dash}{---}
+\newcommand{\tablehead}[1]{\textbf{\textcolor{white}{#1}}}
+\newcommand{\navycell}[1]{\cellcolor{GTNavy}\textbf{\textcolor{white}{#1}}}
+
+\begin{document}
+
+\noindent\textcolor{GTGold}{\rule{\textwidth}{4pt}}
+\vspace{-0.2em}
+
+\begingroup
+\setlength{\fboxsep}{14pt}
+\noindent\colorbox{GTLightGold}{%
+\parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
+    {\LARGE\bfseries\textcolor{GTNavy}{PHYS 4321/4322: Advanced Laboratory I/II}}\\[0.45em]
+    {\normalsize\bfseries Fall 2026 \textbar{} 3 credit hours}\\[0.15em]
+    {\normalsize Section A: Mondays and Wednesdays $\bullet$ Section B: Tuesdays and Thursdays}\\[0.1em]
+    {\normalsize 3:30--6:15 PM ET $\bullet$ Boggs 1-11}
+}}
+\endgroup
+
+\vspace{0.1em}
+\noindent\textcolor{GTLightGray}{\rule{\textwidth}{0.5pt}}
+
+% CRNs (not printed):
+% Section A: PHYS 4321 CRN #86964/80429; PHYS 4322 CRN #90887/90888
+% Section B: PHYS 4321 CRN #90814/90815; PHYS 4322 CRN #93413/93414
+
+\section*{Course Description}
+
+Experiments are conducted that demonstrate basic principles from various fields of physics. An emphasis is placed on contemporary concepts in modern physics.
+
+\subsection*{Learning Outcomes}
+
+Upon successful completion of this course, you should be able to write a clear, succinct, and precise lab report, with conclusions that are supported by your data and analysis.
+
+\section*{Instructor Information}
+
+\begin{tabularx}{\textwidth}{>{\bfseries}p{0.22\textwidth} X X}
+\toprule
+ & \textbf{Section A} & \textbf{Section B} \\
+\midrule
+Instructor & Eric Murray & Andrew J. Steinmetz \\
+\midrule
+Email & \href{mailto:eric.murray@physics.gatech.edu}{eric.murray@physics.gatech.edu} & \href{mailto:ajsteinmetz@gatech.edu}{ajsteinmetz@gatech.edu} \\
+\midrule
+Office & Boggs B-85 & Howey W204 \\
+\bottomrule
+\end{tabularx}
+
+\section*{Course Materials}
+
+None. Lab manuals are available in Canvas.
+
+\section*{Grading Policy}
+
+Each lab report is worth \textbf{25\% of the final grade}, for a total of four lab reports. There are no exams. The list of available experiments is on the course website.
+
+\subsection*{Report Due Dates}
+
+Each report is due at the beginning of class on the day the next lab begins. Report 4 is due at your section's last meeting.
+
+\begin{center}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabularx}{0.98\textwidth}{X p{0.24\textwidth} p{0.24\textwidth}}
+\toprule
+\textbf{Report} & \textbf{Section A} & \textbf{Section B} \\
+\midrule
+Report 1 & Sept.~23 & Sept.~24 \\
+Report 2 & Oct.~21 & Oct.~22 \\
+Report 3 & Nov.~11 & Nov.~12 \\
+Report 4 & Dec.~7 & Dec.~8 \\
+\bottomrule
+\end{tabularx}
+\renewcommand{\arraystretch}{1.0}
+\end{center}
+
+\subsection*{Description of Graded Components}
+
+Lab reports are scored as follows:
+
+\begin{center}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabularx}{0.98\textwidth}{X p{0.12\textwidth}}
+\toprule
+\textbf{Component} & \textbf{Points} \\
+\midrule
+Performance of experiment and quality of data & 50 \\
+Analysis and presentation of experiment & 30 \\
+Other elements (including logbook keeping and late penalties) & 20 \\
+\midrule
+\textbf{Total} & \textbf{100} \\
+\bottomrule
+\end{tabularx}
+\renewcommand{\arraystretch}{1.0}
+\end{center}
+
+Scores are assigned to lab reports. That is, if you perform the experiment and keep a good notebook but do not submit a report, you will earn zero, not 70. Late penalties may result in an ``other'' score less than zero.
+
+\subsection*{Grading Scale}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabularx}{0.98\textwidth}{X p{0.24\textwidth}}
+\toprule
+\textbf{Letter Grade} & \textbf{Percentage} \\
+\midrule
+A & 90--100\% \\
+B & 80--89\% \\
+C & 70--79\% \\
+D & 60--69\% \\
+F & 0--59\% \\
+\bottomrule
+\end{tabularx}
+\renewcommand{\arraystretch}{1.0}
+\end{center}
+
+\href{http://registrar.gatech.edu/info/grading-system}{Georgia Tech grading system}
+
+\section*{Course and Institution Policies}
+
+\subsection*{Attendance and Participation}
+
+You must be present for the first day of each experiment; contact your instructor if you will be unable to attend.
+
+On subsequent days, you need attend only if you will be collecting data, although you are always welcome to attend. You should arrive in the first half-hour of the class meeting. If there are no students present after that, the instructors will lock the lab room and leave.
+
+You may not use any data that you did not participate in collecting during the current semester.
+
+\subsubsection*{Late Work}
+
+Lab reports are due at the beginning of class. Late work is penalized based on tardiness.
+
+\subsection*{Generative AI Use and Disclosure}
+
+Generative AI tools, such as ChatGPT, Claude, Gemini, and Copilot, are permitted in this course under a policy adapted from the American Physical Society (APS) journals. You are fully responsible for everything in your report, and you must check all AI output you use. Light editing (spelling, grammar, trimming wording) needs no disclosure. Any substantive use, such as analysis code, calculations, figures, literature search, or feedback on drafts, must be disclosed inside the report in an \textbf{AI Disclosure Statement}. AI may not generate or alter data, write your report, or supply sources you have not read. See the \href{https://ajsteinmetz.github.io/gt-phys-4321/course-files/ai-disclosure-statement.html}{AI Disclosure Statement} page on the course website for what to disclose, where, and examples.
+
+\href{https://oit.gatech.edu/ai/guidance}{Georgia Tech OIT guidance on AI}
+
+\subsection*{Academic Integrity}
+
+Georgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards.
+
+In particular, each student must turn in their own original lab report, based on data they participated in collecting in the current semester. Although you work in pairs, your laboratory reports are written individually (including text, tables, and figures). The protocol is to take data together, share your research and external resources, and discuss the experiment and results, as you would do in a research team, but write reports separately.
+
+Any student suspected of cheating or plagiarism on a report will be reported to the Office of Student Integrity, who will investigate the incident and identify the appropriate penalty for violations.
+
+\href{https://osi.gatech.edu/students/honor-code}{Georgia Tech Academic Honor Code}
+
+\subsection*{Accommodations for Students with Disabilities}
+
+If you are a student with learning needs that require accommodation, contact the Office of Disability Services, often referred to as ADAPTS, at \href{tel:4048942563}{(404) 894-2563} or through the Office of Disability Services website as soon as possible to make an appointment to discuss your needs and to obtain an accommodations letter. Please also email your instructor to make an appointment for discussing your accommodation.
+
+\href{http://disabilityservices.gatech.edu/}{Georgia Tech Office of Disability Services}
+
+\subsection*{Student-Faculty Expectations}
+
+It is important to strive for an atmosphere of mutual respect, acknowledgment, and responsibility between faculty members and the student body at Georgia Tech. The \href{http://www.catalog.gatech.edu/rules/22/}{Student-Faculty Expectations} articulate some basic expectations.
+
+\end{document}

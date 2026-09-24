@@ -12,7 +12,7 @@ website:
       - text: "Course Files"
         menu:
           - course-files/syllabus.qmd
-          - course-files/ai-usage-statement.qmd
+          - course-files/ai-disclosure-statement.qmd
       - text: "Labs"
         href: labs/index.qmd
       - text: "Supplemental"

@@ -1,0 +1,131 @@
+---
+title: "How to Write an AI Disclosure Statement"
+subtitle: "PHYS 4321/4322: Advanced Laboratory I/II"
+---
+
+## Overview
+
+Physicists who publish in the *Physical Review* journals follow the American Physical Society (APS) policy on AI tools [@aps_ai_policy; @aps_ai_news2026]. Your lab reports follow the same policy, adapted for a course. The idea is simple: **you may use AI tools, you must say how, and you are responsible for everything in your report.**
+
+This page covers generative AI tools such as ChatGPT, Claude, Gemini, Copilot, and similar systems, including AI features built into editors and coding environments.
+
+::: {.callout-note}
+AI use is *entirely optional*. You are never required to use generative AI in this course.
+:::
+
+Relying on AI is not free. There is growing evidence that it can erode the skills it replaces:
+
+> "The ADR of standard colonoscopy decreased significantly from 28.4% (226 of 795) before to 22.4% (145 of 648) after exposure to AI, corresponding with an absolute difference of -6.0% (95% CI -10.5 to -1.6; p=0.0089). [...] Continuous exposure to AI might reduce the ADR of standard non-AI assisted colonoscopy, suggesting a negative effect on endoscopist behaviour." [@budzynetal2025]
+
+Writing a report, fitting your own data, and propagating your own uncertainties are the skills this course exists to build. Use AI in ways that leave you better at them, not worse.
+
+## The Principles
+
+These follow the APS policy for authors.
+
+1. **You are accountable.** An AI program cannot be held accountable, so it cannot be an author. You are responsible for the accuracy of every sentence, number, equation, figure, and reference in your report, whether or not AI helped produce it.
+2. **Check everything.** Review and correct all AI output before it goes into your report. AI tools confidently produce wrong derivations, wrong code, and references that do not exist.
+3. **Disclose substantive use.** If AI shaped the science or the content of your report, say so in the report.
+4. **Keep a record.** Note your AI use as you go, the same way you record your procedure in your lab notebook. Save chat links or transcripts until your report is graded. I may ask to see them.
+
+## When Must I Disclose?
+
+APS draws the line between *light editing* and *substantive use*. We use the same line.
+
+**No disclosure needed:** using AI to polish, condense, or lightly edit text you wrote. This means spelling, grammar, punctuation, word choice, and trimming a sentence that runs long. The meaning, the claims, and the structure stay yours. If the AI rewrote a paragraph into something you would not have written, that is no longer light editing.
+
+**Disclosure required:** any use that affects the content or the results. For a lab report, that includes:
+
+- Writing or debugging code that produces your fits, numbers, or plots
+- Performing or checking derivations, calculations, or uncertainty propagation
+- Generating or restyling figures, schematics, or diagrams
+- Finding, summarizing, or synthesizing literature for your Introduction or Theory
+- Interpreting your results or suggesting explanations for a discrepancy
+- Drafting or restructuring text (see [What Is Not Permitted](#what-is-not-permitted) for the limits)
+- Translating text from another language
+
+::: {.callout-tip}
+## When in doubt, disclose
+A disclosure costs you one sentence. An undisclosed use costs you much more.
+:::
+
+## Where Does the Disclosure Go?
+
+The disclosure goes **inside your report**, in the section closest to where the AI was used, as APS requires. It is not a separate document.
+
+| What AI did | Where you disclose it |
+|---|---|
+| Generated or restyled a figure | That figure's **caption** |
+| Wrote or debugged analysis code; did or checked calculations, fits, or uncertainty propagation | **Experimental methods** or **Data and analysis** |
+| Literature search, summaries, drafting help, feedback on organization, translation | **Acknowledgments** |
+
+Lab reports do not usually have an Acknowledgments section. If you need one, add a short `Acknowledgments` section after the Conclusion and before the References.
+
+If you used AI in several places, disclose each use where it belongs. You may also collect everything in a single **AI Disclosure** paragraph in the Acknowledgments, as long as each figure made with AI still says so in its caption.
+
+## What Goes in the Disclosure?
+
+Every disclosure answers four questions, the same four APS asks:
+
+| Required item | What to include |
+|---|---|
+| **1. Tool and version** | The tool's name and version or model, e.g. "ChatGPT (GPT-5)", "Claude Sonnet 5", "GitHub Copilot in VS Code". |
+| **2. How it assisted** | What the AI did: wrote a fitting function, checked a derivation, suggested a figure layout. |
+| **3. How you directed it** | What you asked it to do, and what you gave it (your code, your equations, your draft). A one-line summary of your prompt is enough. |
+| **4. How you verified the output** | How you know the result is right: compared to a hand calculation, tested the code on simulated data with known parameters, checked each reference in the library. |
+
+Item 4 is the one that matters most. "I read it over" is not verification.
+
+## Examples
+
+**Figure caption:**
+
+> **Fig. 3.** Normalized counting rate versus absorber thickness for Al and Pb, with weighted exponential fits. The plotting script was drafted with Claude Sonnet 5 from a description of the desired layout; I checked the plotted points against the data table and the fit curves against the parameters in Table 2.
+
+**Data and analysis:**
+
+> The nonlinear least-squares fit to Eq. (4) used `scipy.optimize.curve_fit`. GitHub Copilot (VS Code, September 2026) suggested the fitting function and the conversion of the covariance matrix to parameter uncertainties. I verified the code by fitting 1000 simulated data sets generated with known parameters and confirming that the recovered values and uncertainties agreed with the inputs.
+
+**Acknowledgments:**
+
+> I thank my lab partner, J. Doe, for help collecting the data. **AI disclosure:** I used ChatGPT (GPT-5) to find review articles on the Zeeman effect; I read the two sources I cite [3, 4] myself and did not cite anything I had not read. I also asked it for feedback on the organization of my Discussion, which led me to move the systematic-error analysis ahead of the comparison with the accepted value. All text is my own.
+
+**No substantive use:** you do not need a statement. If you want to be explicit, one line in the Acknowledgments is fine: "No generative AI tools were used beyond spelling and grammar checking."
+
+## What Is Not Permitted
+
+APS now allows authors to use AI substantively, with disclosure. A course is not a journal: your report is how I assess *your* understanding. The following are not permitted, disclosed or not:
+
+- **Generating, altering, or "filling in" data.** Every data point must come from measurements you and your partner took in the lab this semester.
+- **Having AI write your report or its sections.** Your Abstract, Discussion, and Conclusion must be written by you. AI may give feedback on your draft; it may not produce the draft.
+- **Citing sources you have not read.** AI tools invent references. Every citation must point to a real source that you have looked at and that says what you claim it says.
+- **Presenting AI-generated images as real.** A schematic of your apparatus may be AI-assisted and disclosed; it may never be passed off as a photograph.
+- **Sharing another student's work with an AI tool.** This includes your lab partner's report and any report you peer review.
+- **Using AI where an assignment or the instructor says not to.**
+- **Using AI substantively without disclosing it.**
+
+::: {.callout-important}
+Undisclosed substantive AI use, or any of the uses above, may be treated as a violation of Georgia Tech's academic integrity policies. The rules on plagiarism in the syllabus apply to AI output exactly as they apply to any other source.
+:::
+
+## Submission Checklist
+
+- I am responsible for everything in my report and have checked all AI output I used.
+- Each substantive AI use is disclosed in the right place (caption, Methods/Data and analysis, or Acknowledgments).
+- Each disclosure names the tool and version, how it assisted, how I directed it, and how I verified the output.
+- Every data point in my report is my own measurement, and I have read every source I cite.
+- I have saved my AI chat links or transcripts in case the instructor asks to see them.
+
+## Why This Matters
+
+This policy is not meant to discourage legitimate use of useful tools. Working physicists use them, and the APS policy acknowledges that. It is meant to keep your reports honest about how they were made, and to make sure the physics in them is yours. Writing a disclosure now is practice for doing it in your first paper.
+
+::: {.callout-tip}
+## Questions?
+If you are not sure whether a use is allowed or needs disclosing, ask me before you submit.
+:::
+
+## References
+
+::: {#refs}
+:::

@@ -111,11 +111,12 @@ LaTeX files in `course-files/*-latex/` are named `<course>-<topic>[-<term>].tex`
 
 ## This repo: gt-phys-4321 (PHYS 4321/4322, Advanced Laboratory I/II)
 
-- Course: PHYS 4321/4322 Advanced Laboratory I/II, Fall 2026, 3 credits. Two sections: A (Eric Murray, Mon/Wed) and B (Andrew J. Steinmetz, Tue/Thu 3:30&ndash;6:15 PM ET, Boggs 1-11). The site follows Section B.
+- Course: PHYS 4321/4322 Advanced Laboratory I/II, Fall 2026, 3 credits. Two sections, both 3:30&ndash;6:15 PM ET in Boggs 1-11: A (Eric Murray, Mon/Wed, CRNs 86964/80429 and 90887/90888) and B (Andrew J. Steinmetz, Tue/Thu, CRNs 90814/90815 and 93413/93414). The syllabus (web and LaTeX) covers both sections; the rest of the site follows Section B.
 - Course-page subtitle: `"PHYS 4321/4322: Advanced Laboratory I/II"`. Lecture subtitle: `"PHYS 4321/4322 &middot; Advanced Lab"`.
 - Lecture footer: `"PHYS 4321/4322 &middot; Georgia Institute of Technology"`. Decks are not date-numbered (`lab-guidelines.qmd`, `lab-report.qmd`); `lab-report.qmd` uses `code-overflow: wrap`.
 - Students complete four lab reports (25% each; rubric 50/30/20). `labs/index.qmd` lists the 13 available experiments; there are no per-assignment pages. Add `labs/<code>.qmd` pages as they are written.
 - `supplemental/notebook-guidelines.qmd`, `supplemental/error-analysis.qmd`, and `lectures/lab-guidelines.qmd` are unfinished stubs (TBD + TODO).
-- `course-files/ai-usage-statement.qmd` and `supplemental/technical-writing.qmd` were carried over from gt-phys-4604 and still need revision (see TODO comments).
+- `supplemental/technical-writing.qmd` was carried over from gt-phys-4604 and still needs revision (see TODO comments).
+- `course-files/ai-disclosure-statement.qmd` is the course AI policy, adapted from the APS journals' AI policy (`[@aps_ai_policy]`). Disclosures go inside the report (figure caption, Methods/Data and analysis, or Acknowledgments); keep the syllabus summary in sync.
 - Canonical schedule is in `index.qmd`; the calendar PDF is the source. Keep it in sync with the syllabus.
 - `submissions/` (if present) holds student work. It is gitignored and must never be committed, published, or quoted outside this machine.

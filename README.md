@@ -8,7 +8,7 @@ The site is built with [Quarto](https://quarto.org/). Project configuration is i
 
 ## Contents
 
-- `course-files/` &mdash; `syllabus.qmd`, `ai-usage-statement.qmd`
+- `course-files/` &mdash; `syllabus.qmd`, `ai-disclosure-statement.qmd`
 - `labs/` &mdash; list of available experiments
 - `supplemental/` &mdash; `technical-writing.qmd`, `notebook-guidelines.qmd`, `error-analysis.qmd`
 - `lectures/` &mdash; RevealJS slides (`lab-guidelines.qmd`, `lab-report.qmd`) and lecture index

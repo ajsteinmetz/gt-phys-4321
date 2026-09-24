@@ -3,9 +3,9 @@ title: "Syllabus"
 subtitle: "PHYS 4321/4322: Advanced Laboratory I/II"
 ---
 
-**Fall 2026 | PHYS 4321 (Advanced Lab I) CRN #90814/90815 | PHYS 4322 (Advanced Lab II) CRN #93413/93414 | 3 credit hours**
+**Fall 2026 &middot; 3 credit hours &middot; 3:30&ndash;6:15 PM ET &middot; Boggs 1-11**
 
-**Section B: Tuesdays and Thursdays, 3:30&ndash;6:15 PM ET &middot; Boggs 1-11**
+The course runs in two sections with the same policies, experiments, and grading. Section A meets Mondays and Wednesdays; Section B meets Tuesdays and Thursdays.
 
 ## Course Description
 
@@ -17,14 +17,13 @@ Upon successful completion of this course, you should be able to write a clear, 
 
 ## Instructor Information
 
-| | |
-|---|---|
-| **Section A instructor** | Eric Murray |
-| **Section A email** | [eric.murray@physics.gatech.edu](mailto:eric.murray@physics.gatech.edu) |
-| **Section B instructor** | Andrew J. Steinmetz |
-| **Section B email** | [ajsteinmetz@gatech.edu](mailto:ajsteinmetz@gatech.edu) |
-| **Office (Section B)** | Howey W204 |
-| **Office Hours (Section B)** | [By appointment](https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous&ismsaljsauthenabled&ep=plink) |
+| | Section A | Section B |
+|---|---|---|
+| **Instructor** | Eric Murray | Andrew J. Steinmetz |
+| **Email** | [eric.murray\@physics.gatech.edu](mailto:eric.murray@physics.gatech.edu) | [ajsteinmetz\@gatech.edu](mailto:ajsteinmetz@gatech.edu) |
+| **PHYS 4321 (Advanced Lab I) CRN** | #86964/80429 | #90814/90815 |
+| **PHYS 4322 (Advanced Lab II) CRN** | #90887/90888 | #93413/93414 |
+| **Office** | Boggs B-85 | Howey W204 |
 
 ## Course Materials
 
@@ -33,6 +32,19 @@ None. Lab manuals are available in Canvas.
 ## Grading Policy
 
 Each lab report is worth **25% of the final grade**, for a total of four lab reports. There are no exams. See the [list of available experiments](../labs/index.qmd).
+
+### Report Due Dates
+
+Each report is due at the beginning of class on the day the next lab begins. Report 4 is due at your section's last meeting.
+
+| Report | Section A | Section B |
+|---|---|---|
+| Report 1 | Sept. 23 | Sept. 24 |
+| Report 2 | Oct. 21 | Oct. 22 |
+| Report 3 | Nov. 11 | Nov. 12 |
+| Report 4 | Dec. 7 | Dec. 8 |
+
+The full Section B schedule is on the [course home page](../index.qmd).
 
 ### Description of Graded Components
 
@@ -46,8 +58,6 @@ Lab reports are scored as follows:
 | **Total** | **100** |
 
 Scores are assigned to lab reports. That is, if you perform the experiment and keep a good notebook but do not submit a report, you will earn zero, not 70. Late penalties may result in an "other" score less than zero.
-
-<!-- TODO: state the late-penalty rate once decided. -->
 
 ### Grading Scale
 
@@ -73,19 +83,13 @@ You may not use any data that you did not participate in collecting during the c
 
 #### Late Work
 
-Lab reports are due at the beginning of class. Late work is penalized; the penalty rate is TBD.
+Lab reports are due at the beginning of class. Late work is penalized based on tardiness.
 
-<!-- TODO: penalty rate is not in the source syllabus. -->
+### Generative AI Use and Disclosure
 
-### Limited Generative AI Use Permitted
-
-<!-- TODO: revise this section for PHYS 4321/4322 (carried over from PHYS 4604). -->
-
-Use of generative AI, such as Copilot, ChatGPT, Claude, Gemini, and similar tools, is permitted in this course, but only within instructor-approved boundaries. Examples may include stages of writing, revising work, providing feedback, grammar refinement, or coding assistance.
+Generative AI tools, such as ChatGPT, Claude, Gemini, and Copilot, are permitted in this course under a policy adapted from the American Physical Society (APS) journals. You are fully responsible for everything in your report, and you must check all AI output you use. Light editing (spelling, grammar, trimming wording) needs no disclosure. Any substantive use, such as analysis code, calculations, figures, literature search, or feedback on drafts, must be disclosed inside the report in an **AI Disclosure Statement**. AI may not generate or alter data, write your report, or supply sources you have not read. See the [AI Disclosure Statement](ai-disclosure-statement.qmd) page for what to disclose, where, and examples.
 
 [Georgia Tech OIT guidance on AI](https://oit.gatech.edu/ai/guidance)
-
-AI usage must be transparent and documented in an **AI Usage Statement** with each submission where it is used. See the [AI Usage Statement](ai-usage-statement.qmd) page.
 
 ### Academic Integrity
 
@@ -105,6 +109,4 @@ If you are a student with learning needs that require accommodation, contact the
 
 ### Student-Faculty Expectations
 
-It is important to strive for an atmosphere of mutual respect, acknowledgment, and responsibility between faculty members and the student body at Georgia Tech. The Student-Faculty Expectations articulate some basic expectations.
-
-[Georgia Tech student-faculty expectations](http://www.catalog.gatech.edu/rules/22/)
+It is important to strive for an atmosphere of mutual respect, acknowledgment, and responsibility between faculty members and the student body at Georgia Tech. The [Student-Faculty Expectations](http://www.catalog.gatech.edu/rules/22/) articulate some basic expectations.
